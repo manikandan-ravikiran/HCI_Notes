@@ -6,25 +6,39 @@
 
 > MacKenzie, I.S. (2013). Chapter 1: Historical Context. Human-Computer Interaction: An Empirical Research Perspective. (pp. 1-26). Waltham, MA: Elsevier.
 
-Topic: historical context for HCI.
+## Historical context for HCI.	
 
+- Human factors is both a science and a field of engineering. It is concerned with
+human capabilities, limitations, and performance, and with the design of systems
+that are efficient, safe, comfortable, and even enjoyable for the humans who use
+them.
+- HCI, then, is human factors, but narrowly focused on human interaction with
+computing technology of some sort. That said, HCI itself does not feel “narrowly focused.” On the contrary, HCI is tremendously broad in scope. It draws upon interests and expertise in disciplines such as
+psychology (particularly cognitive psychology and experimental psychology), sociology, anthropology, cognitive science, computer science, and linguistics.
 - **User study** - in this book refers to an experiment with human participants
 - HCI emerged in the 1980s, the discipline most central to HCI is _human factors_ or _ergonomics_
-- **Vannevar Bush** - had ideas about storing and accessing information like what we are currently able to do with the internet
-- **Sketchpad** - the first _direct manipulation_ interface
-- **Douglas Engelbart** - invented the mouse in 1963
-- **Xerox Star** - novel feature of the _desktop metaphor_
+
+
+## Notable Events
+
+- **Vannevar Bush** - had ideas about storing and accessing information like what we are currently able to do with the internet. Bush proposed navigating the knowledge maze with a device he called memex. Among the features of memex is associative indexing, whereby points of interest can be connected and joined so that selecting one item immediately and automatically selects another.
+- **Sketchpad** - Proposed by Ivan sutherlandthe first _direct manipulation_ interface. The use of a pointing device for input makes Sketchpad the first direct manipulation interface—a sign of things to come
+- **Douglas Engelbart** - invented the mouse in 1963. Won turing award in 1997 and SIGCHI Lifetime achievement award.
+- **Xerox Star** - novel feature of the _desktop metaphor_. Metaphors are important in HCI. When a metaphor is present, the user has a jump-start on knowing what to do. The user exploits existing knowledge from another domain. The desktop
+metaphor brings concepts from the office desktop to the system’s display.
 - **SIGCHI** - Special Interest Group on Computer-Human Interaction (1982)
-- **The Psychology of Human-Computer Interaction** - written by Card, Moran, and Newell; connects low-level human processes with interactions humans have with computers
-- **MHP** - _model human processor_
-- **KLM** - _keystroke-level model_
+- **The Psychology of Human-Computer Interaction** - written by Card, Moran, and Newell; connects low-level human processes with interactions humans have with computers. The framework for this was the model human processor (MHP).
+	- Newell astutely identifies a dilemma in the field: experimentation cannot be done until it is too late. As he put
+it, the system is built and the degrees of freedom are bound. This is an overstatement, perhaps, but it is true that novel interactions in new products always seem to be followed by a flurry of research papers identifying weaknesses and suggesting and evaluating improvements.
+	- This is very important part of the chapter and must read.
+	- **MHP** - _model human processor_	
+	- **KLM** - _keystroke-level model_
 
 ## Chapter 1: The Psychopathology Of Everyday Things
 
 > Norman, D. (2013). Chapter 1: The Psychopathology of Everyday Things. In The Design of Everyday Things: Revised and Expanded Edition. (pp. 1-36). Arizona: Basic Books.
 
 ### Topic: psychopathology of everyday things.
-
 
 #### Discoverability and Understanding
 - Discoverability: Is it possible to even figure out what actions are possible and where and how to perform them? 
@@ -88,7 +102,6 @@ We need both.
 - There are often multiple conceptual models of a product or device. People’s conceptual models for the way that regenerative braking in a hybrid or electrically powered automobile works are quite different for average drivers than for technically sophisticated drivers, different again for whoever must service the system, and yet different again for those who designed the system.
 - The major clues to how things work come from their perceived structure—in particular from signifiers, affordances, constraints, and mappings
 - What happens when the device does not suggest a good conceptual model? Consider my digital watch with five buttons: two along the top, two along the bottom, and one on the left side (Figure 1.8). What is each button for? How would you set the time? There is no way to tell—no evident relationship between the operating controls and the functions, no constraints, no apparent mappings.
-
 
 ### System Image
 - People create mental models of themselves, others, the environment, and the things with which they interact. These are conceptual models formed through experience, training, and instruction. These models serve as guides to help achieve our goals and in understanding the world
