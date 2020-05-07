@@ -1,5 +1,8 @@
 # Lesson 17
 
+How to accomplish the task we will achieve
+	- Choices are of wide variety
+
 This lesson will cover the following topics:
 
 1. **Design alternatives** - when we start to brainstorm how to accomplish the task we've been investigating
@@ -15,11 +18,15 @@ The settling on a single idea can take on multiple forms:
 1. Staying too allegiant to existing designs or products
 2. Focusing too strongly on one alternative from the very beginning
 
+Distance from existing interface - Tunnel vision
+
 ## Design Space
 
 - **Design space** - the area in which we design our interfaces
 
-Our goal during the design alternative phase is to explore the possible design space. We do not want to narrow down the design space too early.
+- Our goal during the design alternative phase is to explore the possible design space. We do not want to narrow down the design space too early.
+
+- Start with silly ideas. go nuts
 
 ## Individual Brainstorming
 
@@ -43,47 +50,39 @@ During the design alternative phase we want to generate many ideas. Researchers 
 
 ## Rules For Group Brainstorming
 
-1. Expressiveness
-2. Non-evaluation
-3. Quantity
-4. Building
+1. Expressiveness - Any idea that comes out share out loud
+2. Non-evaluation - No evaluation
+3. Quantity - More ideas better
+4. Building - Build on the other ideas
 
 There are four additional rules:
 
-1. Stay focused
-2. No explaining ideas
-3. Revisit the problem
-4. encourage others
+1. Stay focused - keep goal in mind
+2. No explaining ideas - Say idea and move on
+3. Revisit the problem - Hit a road block and revisit
+4. encourage others - Encourage them to do so.
 
 ## 5 Tips: Group Brainstorming
 
 1. Go through every individual idea
 2. Find the optimal size
-3. Set clear rules for communication
-4. Set clear expectations
-5. End with ideas, not decisions
-
+3. Set clear rules for communication - Set timer and no one can block others
+4. Set clear expectations - How long sesion wil go? set an expectation
+5. End with ideas, not decisions - several ideas and come back to pursu
+e
 ## Fleshing Out Ideas
 
 The next step in brainstorm is fleshing out ideas, below are some methods on how we do that:
 
-1. **Personas** - create actual characters to represent our users
+1. **Personas** - create actual characters to represent our users. Emphatatic reasoning.
 2. **User profiles** - defining a number of different variables about our users and possibilities within each
+	- Expertise, reading level, motativation literacy, frequency.
 3. **Timelines** - taking our personas and thinking about their thoughts and actions over time and various stages of interacting with our interface (a general approach)
+	- Stretch persona and check whats done at various stages
+	- Journey maps - Entire life
 4. **Scenarios and storyboards** - examining the specific scenarios users will encounter while using our interfaces (a more specific approach)
 5. **User modeling** - where personas are personal and will give us an empathetic view of the UX, user models are more objective and meant to give us measurable and comparable view of the UX
 
-## Section Quizzes
 
-### Exercise: Design Alternatives Pros And Cons
-
-Match the advantage to the method
-
-|                                          | Personas | Scenarios | User profiles | Timelines | User Modeling |
-| ---------------------------------------- | -------- | --------- | ------------- | --------- | ------------- |
-| Includes the task context                |          | x         |
-| Includes the user's context              | x        |           | x             |           |               |
-| Delineates the target audience           |          |           | x             |           |               |
-| Targets general workflows                |          |           |               |           | x             |
-| Captures activity over time              |          | x         |               | x         | x             |
-| Attempts to capture potential edge cases |          | x         |               |           |               |
+## Important Videos
+2,6,7,9,11,12,13,15
