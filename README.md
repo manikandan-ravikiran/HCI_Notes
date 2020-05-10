@@ -13,6 +13,9 @@ Notes for Human Computer Interaction course - CS6750
 ### Credits
 The notes wouldn't be possible without foundational work of my Edtech classmate [Steven Chung](https://github.com/stevenxchung/OMSCS-Notes).
 
+### PDF's
+The pdf is not released due to copyright. Please raise an git issue for the same. 
+
 
 ### Citation
 ```
