@@ -39,7 +39,7 @@ Reflection on reasoning top down vs bottom up
 
 ## Views Of The User
 
-There are three different roles a hum an can play:
+There are three different roles a human can play:
 
 1. **Processor**:
 

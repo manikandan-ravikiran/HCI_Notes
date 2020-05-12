@@ -6,7 +6,10 @@
 
 > MacKenzie, I.S. (2013). Chapter 4: Scientific Foundations. Human-Computer Interaction: An Empirical Research Perspective. (pp. 121-152). Waltham, MA: Elsevier.
 
-Topic: what is research?
+### what is research?
+- To rise above conjecture, we demand evidence—evidence meeting a standard of credibility
+such that the statement is beyond dispute. Providing such credibility is the goal of
+research
 
 There are three different definitions:
 
@@ -14,29 +17,32 @@ There are three different definitions:
 2. Collecting information about a particular subject
 3. Investigation or experimentation aimed at the discovery and interpretation of facts and revision of accepted theories or laws in light of new facts
 
-In HCI research we don’t prove things; we gather facts and formulate and test evidence.
-
-Research, according to the third definition, involves discovery, interpretation, and revision.
-
-Research has a critical purpose: to extend, refine, or revise the existing body of knowledge in the field; this is achieved through publication.
-
-Though citations the body of research takes shape, the insights and lessons from early research inform and guide later research.
-
-Research must be reproducible. The reproducibility standard enforces a process for conducting and writing about the research that ensures sufficient detail is included to allow the results to be replicated.
-
-Engineers and designers create products that strive to bring together the best in form (design emphasis) and function (engineering emphasis). Engineers work in a world where the focus is on designing complete systems or products whereas research tends to be narrowly focused. Research tends to be small in scope where results are incremental not monumental. While a prototype is used to access alternatives in product development, a researcher's prototype is an early mock-up of an idea which is unlikely to directly appear in a product.
+- In HCI research we don’t prove things; we gather facts and formulate and test evidence.
+- Research, according to the third definition, involves discovery, interpretation, and revision.
+- Research has a critical purpose: to extend, refine, or revise the existing body of knowledge in the field; this is achieved through publication.
+- Though citations the body of research takes shape, the insights and lessons from early research inform and guide later research.
+- Research must be reproducible. The reproducibility standard enforces a process for conducting and writing about the research that ensures sufficient detail is included to allow the results to be replicated.
+- Engineers and designers create products that strive to bring together the best in form (design emphasis) and function (engineering emphasis). Engineers work in a world where the focus is on designing complete systems or products whereas research tends to be narrowly focused. Research tends to be small in scope where results are incremental not monumental. While a prototype is used to access alternatives in product development, a researcher's prototype is an early mock-up of an idea which is unlikely to directly appear in a product.
+- Furthermore, the march forward for research is at a slower pace, without the shackles of deadlines.
 
 Tim Brown CEO of IDEO design firm on prototypes:
 
 > Prototypes should command only as much time, effort, and investment as are needed to generate useful feedback and evolve an idea. The more “finished” a prototype seems, the less likely its creators will be to pay attention to and profit from feedback. The goal of prototyping isn’t to finish. It is to learn about the strengths and weaknesses of the idea and to identify new directions that further prototypes might take
 
-While engineers and designers strive to build better systems or products, in the broadest sense, researchers provide the raw materials and processes engineers and designers work with.
+- While engineers and designers strive to build better systems or products, in the broadest sense, researchers provide the raw materials and processes engineers and designers work with.
+
+
+### Empirical Research
+
 
 Various definitions of empirical research:
 
 1. Originating in or based on observation or experience
 2. Relying on experience or observation alone, often without due regard for system and theory
 3. Capable of being verified or disproved by observation or experiment
+
+
+### Empirical Research Methods
 
 Three common research methods in HCI which are empirical:
 
@@ -45,12 +51,25 @@ Three common research methods in HCI which are empirical:
    - Includes interviews, field investigations, contextual inquiries, case studies, field studies, focus groups, think aloud protocols, storytelling, walkthrough, cultural probes, etc.
 2. Experimental method:
    - The scientific method, is where knowledge is acquired through controlled experiments conducted in laboratory settings
+   - HCI experiments involve humans, so the methodology employed is borrowed from experimental psychology, a field with a long history of research involving humans. In a sense, HCI is the beneficiary of this more mature field. 
+   - It is naïve to think we can simply choose to focus on the experimental method and ignore qualities of interaction that are outside the scope of the experimental procedure. A full and proper user study—an experiment with human participants— involves more than just measuring and analyzing human performance
    - The relationship between the independent variable and the dependent variable is one of cause and effect; cause-and-effect conclusions are not possible in research using the observational method or the correlational method
 3. Correlational method:
    - Involves looking for relationships between variables, provides a balance between relevance and precision
    - Characterized by quantification since the magnitude of variables must be ascertained
    - Data may be collected through observation, interviews, on-line surveys, questionnaires, or measurement
    - Data obtained using correlational methods are circumstantial, not causal
+
+### Observation and Measure
+- Observation is the precursor to measurement, and if the investigator is the observer, then measurements are collected manually. This could involve using a log sheet or notebook to jot down the number of events of interest observed. Events of interest might include the number of times the user clicked a button or moved his or her hand from the keyboard to the mouse.
+- More often in empirical research, the task of observing is delegated to the apparatus—the computer. Of course, this is a challenge in some situations. As an example, if the interaction is with a digital sports watch or automated teller machine (ATM), it is not possible to embed data collection software in the apparatus. Even if the apparatus is a conventional desktop computer, some behaviors of interest are
+difficult to detect
+
+### Measurement Scales - Types of Data
+
+
+
+
 
 Tips for finding an interesting research topic:
 
