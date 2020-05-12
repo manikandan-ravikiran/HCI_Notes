@@ -67,8 +67,47 @@ difficult to detect
 
 ### Measurement Scales - Types of Data
 
+#### Nominal Data 
+-  A measurement on the nominal scale involves arbitrarily assigning a code to an attribute or a category. The measurement is so arbitrary that the code needn’t be a number (although it could be). Examples are automobile license plate numbers, codes for postal zones, job classifications, military ranks, etc.
+- Nominal data identify mutually exclusive categories. Membership or exclusivity is meaningful, but little else. The only relationship that holds is equivalence, which exists between entities in the
+same class. Nominal data are also called categorical data.
+- Nominal data are often used with frequencies or counts—the number of occurrences of each attribute
+
+#### Ordinal data
+- Ordinal scale measurements provide an order or ranking to an attribute. The attribute
+can be any characteristic or circumstance of interest. 
+- For example, users might be asked to try three global positioning systems (GPS) for a period of time and then rank the systems by preference: first choice, second choice, third choice. Or users
+could be asked to consider properties of a mobile phone such as price, features, coolappeal, and usability, and then order the features by personal importance. 
+- The main limitation of ordinal data is that the interval is not intrinsically equal between successive points on the scale. In the example just cited, there is no innate sense of how much more important usability is over cool-appeal or whether the difference is greater or less than that between, for example, cool-appeal and price.
+- Ordinal data are slightly more sophisticated than nominal data since comparisons of greater than or less than are possible. However, it is not valid to compute the mean of ordinal data.
+
+#### Interval Data
+- Moving up in sophistication, interval data have equal distances between adjacent values. However, there is no absolute zero. The classic example of interval data is temperature measured on the Fahrenheit or Celsius scale. 
+- Unlike ordinal data, it is meaningful to compute the mean of interval data, for example, the mean mid-day temperature during the month of July. Ratios of interval data are not meaningful, however. For example, one cannot say that 20°C is twice as warm as 10°C
+-  One remedy for non-equal gradations in Likert-scale response items is simply to instruct respondents to interpret the items as equally spaced
 
 
+#### Ratio Data
+- Ratio-scale measurements are the most sophisticated of the four scales of measurement. Ratio data have an absolute zero and support a myriad of calculations
+- Ratio data can be added, subtracted, multiplied, divided; means, standard deviations, and variances can be computed. In HCI, the most common ratio-scale measurement is time—the time to complete a task.
+- But generally, all physical measurements are also ratio-scale, such as the distance or velocity of a cursor as it moves across a display, the force applied by a finger on a touchscreen, and so on. Many social variables are also ratio-scale, such as a user’s age or years of computer experience.
+
+### Research Questions
+- The notion of posing or answering questions seems simple enough, but this is tricky because of the human element. Unlike an algorithm operating on a data set, where the time to search, sort, or whatever is the same with each try, people exhibit variability in their actions.
+- Create informal questions and  then move forward from the loose and informal questions above to questions more suitable for empirical and experimental enquiry.
+
+### Internal and External Validity
+- At this juncture we are in a position to consider two important properties of experimental research: internal validity and external validity
+- Internal Validity
+	- Internal validity (definition) is the extent to which an effect observed is due to the test conditions. For the example, an effect is simply the difference in entry speed between the new technique and QSK. If we conduct an experiment to measure and compare the entry speed for the two techniques, we want confidence that the difference observed was actually due to inherent differences between the techniques. Internal validity captures this confidence. 
+	- As already noted, this question is not testable in an empirical sense. Attempts to answer it directly are fraught with problems, because we lack a methodology to observe and measure “better than”
+- External Validity
+	- Answerable with high accuracy (that’s good!). The question is testable, which means we can craft a methodology to answer it through observation and measurement. Unfortunately, the narrow scope of the question brings different problems. Focusing on entry speed is fine, but what about other aspects of the interaction?
+	- External validity (definition) is the extent to which experimental results are generalizable to other people and other situations. Generalizable clearly speaks to breadth in Figure 4.8. To the extent the research pursues broadly framed questions, the results tend to be broadly applicable. But there is more. Research results that apply to “other people” imply that the participants involved were representative of a larger intended population
+- Unfortunately, there is no universal remedy for the tension between internal and external validity. At the very least, one must acknowledge the limitations. Formulating conclusions that are broader than what the results suggest is sure to raise the ire of reviewers. We can strive for the best of both worlds with a simple approach, however. Posing multiple narrow (testable) questions that cover the range
+of outcomes influencing the broader (untestable) questions will increase both internal and external validity.
+
+### Comparitive Evaluations
 
 
 Tips for finding an interesting research topic:
