@@ -108,7 +108,20 @@ could be asked to consider properties of a mobile phone such as price, features,
 of outcomes influencing the broader (untestable) questions will increase both internal and external validity.
 
 ### Comparitive Evaluations
+-  In other words, a new user interface or interaction technique is designed and implemented and then compared with one or more alternative designs to determine which is faster, more accurate, less confusing, more preferred by users, etc. 
+- A controlled experiment must include at least one independent variable and the independent variable must have atleast two levels or test conditions. Comparison, then, is inherent in research following the experimental method discussed earlier.
+- **Add Baseline** - The idea of including an established design as a baseline condition is particularly appealing. There are two benefits. First, the baseline condition serves as a check on the methodology. Baseline conditions are well traveled in the research literature, so results in a new experiment are expected to align with previous results. Second, the baseline condition allows results to be compared with other studies
 
+### Relationships: circumstantial and causal
+
+- looking for and explaining interesting relationships is part of what we do in HCI research
+- Finding a causal relationship in an HCI experiment yields a powerful conclusion. If the human response measured is vital in HCI, such as the time it takes to do a common task, then knowing that a condition tested in the experiment reduces this time is a valuable outcome. If the condition is an implementation of a novel idea and it was compared with current practice, there may indeed be reason to celebrate
+   - Causal relationships emerge from controlled experiments. Looking for a causal relationship requires a study where, among other things, participants are selected randomly from a population and are randomly assigned to test conditions
+   - Cause and effect conclusions are not possible in certain types of controlled experiments. If the variable manipulated is a naturally occurring attribute of participants, then cause and effect conclusions are unreliable.
+- Many relationships are circumstantial. They exist, and they can be observed, measured, and quantified. But they are not causal, and any attempt to express the relationship as such is wrong. The classic example is the relationship between smoking and cancer. Suppose a research study tracks the habits and health of a large number of people over many years. This is an example of the correlational method of
+research mentioned earlier. 
+
+### Tips
 
 Tips for finding an interesting research topic:
 
