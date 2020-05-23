@@ -31,7 +31,6 @@ Tim Brown CEO of IDEO design firm on prototypes:
 
 - While engineers and designers strive to build better systems or products, in the broadest sense, researchers provide the raw materials and processes engineers and designers work with.
 
-
 ### Empirical Research
 
 
@@ -151,37 +150,113 @@ Some terms from this section:
 
 ## Survey Research In HCI
 
-> Müller, H., Sedley, A., & Ferrall-Nunge, E. (2014). Survey research in HCI. In J. Olson & W. Kellogg (Eds.) Ways of Knowing in HCI (pp. 229-266). New York: Springer.
+A survey is a method of gathering information by asking questions to a subset of people, the results of which can be generalized to the wider target population.
 
-Topic: surveys do not allow for observation of the respondents’ context or follow-up questions. When conducting research into precise behaviors, underlying motivations, and the usability of systems, then other research methods may be more appropriate or needed as a complement.
+### Use of Survey
 
-When used appropriately, surveys can help inform application and user research
+
+- Get demographic or psychographic information to characterize a population
+- Get feedback on people’s experiences with a product, service, or application
+- Collect people’s attitudes and perceptions toward an application in the context of usage
+- Understand people’s intents and motivations for using an application
+- Quantitatively measure task success with specific parts of an application
+- Capture people’s awareness of certain systems, services, theories, or features
+- Compare people’s attitudes, experiences, etc. over time and across dimensions
+
+* Surveys do not allow for observation of the respondents’ context or follow-up questions. When conducting research into precise behaviors, underlying motivations, and the usability of systems, then other research methods may be more appropriate or needed as a complement.
+* When used appropriately, surveys can help inform application and user research
 strategies and provide insights into users’ attitudes, experiences, intents, demographics, and psychographic characteristics.
 
-Surveys are appropriate for obtaining:
+### Bit of History
 
-1. Attitudes
-2. Intent
-3. Task success
-4. User experience feedback
-5. User characteristics
-6. Interactions with technology
-7. Awareness
-8. Comparisons
+- At the emergence of contemporary psychology, Francis Galton pioneered the use of questionnaires to investigate the nature vs. nurture debate and differences between
+humans, the latter of which evolved into the field of psychometrics (Clauser, 2007)
+
+### Surveys are appropriate for obtaining:
+
+1. Attitudes - Surveys can accurately measure and reliably represent attitudes and perceptions of a population. Example, customer satisfaction.
+2. Intent - Surveys can collect peoples’ reasons for using an application at a specific time, allowing researchers to gauge the frequency across different objectives.
+3. Task success - a survey can be used to reliably quantify levels of success. Ex execute and report on a task
+4. User experience feedback - Collecting open-ended feedback about a user’s experience can be used to understand the user’s interaction with technology.
+5. User characteristics - Collecting open-ended feedback about a user’s experience can be used to understand the user’s interaction with technology.
+6. Interactions with technology - Surveys can be used to understand more broadly how people interact with technology and how technology influences social interactions
+7. Awareness - Surveys can also help in understanding people’s awareness of existing technologies or specific application feature
+8. Comparisons - Surveys can be used to compare users’ attitudes, perceptions, and experiences across user segments, time, geographies, and competing applications and between experimental and control versions
 
 Researchers should avoid using surveys when trying to obtain:
 
-1. Precise behaviors
-2. Underlying motivations
-3. Usability evaluations
+1. Precise behaviors - While respondents can be asked to self-report their behaviors, gathering this information from log data, if available
+2. Underlying motivations - People often do not understand or are unable to explain why they take certain actions or prefer one thing over another.
+3. Usability evaluations - Surveys are inappropriate for testing specific usability tasks and understanding of tools and application elements.
+
+
+* Better to use survey with other methods as it helps in initial and intermediate stages to verify on the problem.
+
+### Stages in Survey
+
+1. **Research goals and constructs** - When the survey-appropriate research goals have been identified, they should be matched to constructs, i.e., unidimensional attributes that cannot be directly observed. The identified constructs should then be converted into one or multiple survey questions. Furthermore, a technique called cognitive pretesting can be used to determine whether respondents are interpreting the constructs as intended by the researcher.
+2. **Population and sampling**
+   - Key to effective survey research is determining who and how many people to survey. In order to do this, the survey’s population, or set of individuals that meet certain criteria, and to whom researchers wish to generalize their results must first be defined.  
+   - However, if the sampling frame systematically excludes certain types of people (e.g., very dissatisfied or disengaged users), the survey will suffer from coverage error and its responses will misrepresent the population
+   - Probability or random sampling is considered the gold standard because every person in the sampling frame has an equal, nonzero chance of being chosen for the sample
+   - Especially when targeting small populations (e.g., users of a specialized enterprise product or experts in a particular field) or investigating sensitive or rare behavior. In these situations, researchers may use non-probability sampling methods such as volunteer opt-in panels, unrestricted self-selected surveys (e.g., links on blogs and social networks), snowball recruiting (i.e., asking for friends of friends), and convenience samples (i.e., targeting people readily available, such as mall shoppers) (Couper, 2000).
+   - There are various formulas for calculating the target sample size. Figure 4, based on Krejcie and Morgan’s formula (1970), shows the appropriate sample size, given the population size, as well as the chosen margin of error and confidence level for your survey
+3. **Questionnaire design and biases**
+   - Upon establishing the constructs to be measured and the appropriate sampling method, the first iteration of the survey questionnaire can be designed
+   - Poor questionnaire design may introduce measurement error, defined as the deviation of the respondents’ answers from their true values on the measure
+   - Closed vs Open ended, Single choice vs Multiple Choice, Ranking vs Rating, Unipolar (0-5) vs Bipolar (-1 to 5). Also When using a rating scale, the inclusion of a midpoint should be considered
+   - **Biases in Questions**
+      - Satisficing occurs when respondents use a suboptimal amount of cognitive effort to answer questions.
+      - Acquiecence Bias - When presented with agree/disagree, yes/no, or true/false statements, some respondents are more likely to concur with the statement independent of its substance.
+      - Social desirability occurs when respondents answer questions in a manner they feel will be positively perceived by others.
+      - Response order bias is the tendency to select the items toward the beginning (i.e., primacy effect) or the end (i.e., recency effect) of an answer list or scale.
+      - Question Order Bias - Order effects also apply to the order of the questions in surveys. Each question in a survey has the potential to bias each subsequent question by priming respondents.
+      - Leveraging Established Questionnaires: An alternative to constructing a brand new questionnaire is utilizing questionnaires developed by others. These usually benefit from prior validation and allow researchers to compare results with other studies that used the same questionnaire.
+      - Researchers should also take into account their survey’s visual design, since specific choices, including the use of images, spacing, and progress bars, may unintentionally bias respondents. 
+      - Survey questions can be presented one per page, multiple per page, or all on one page. Research into pagination effects on completion rates is inconclusive.
+      - While progress bars are generally preferred by respondents and are helpful for short surveys, their use in long surveys or surveys with skip logic can be misleading and intimidating.
+4. Review and survey pretesting
+   - Cognitive Pretesting - To conduct a cognitive pretest, a small set of potential respondents is invited to participate in an in-person interview where they are asked to take the survey while using the think-aloud protocol (similar to a usability study).
+   - To conduct a cognitive pretest, a small set of potential respondents is invited to participate in an in-person interview where they are asked to take the survey while using the think-aloud protocol (similar to a usability study).
+   - A cognitive pretest assesses question interpretation, construct validity, and comprehension of survey terminology and calls attention to missing answer options or entire questions
+      - Read the entire question and describe it in your own words.
+      - Select or write an answer while explaining your thought process.
+      - Describe any confusing terminology or missing answer choices.
+   - Piloting the survey with a small subset of the sample will help provide insights that cognitive pretests alone cannot. Through field testing, the researcher can assess the success of the sampling approach, look for common break-off points and long completion times, and examine answers to openended questions.
+5. Implementation and launch
+   - When all questions are finalized, the survey is ready to be fielded based on the chosen sampling method. Respondents may be invited through e-mails to specifically named persons.
+   - **Piping Behavioral Data into Surveys** - Some platforms support the ability to combine survey responses with other log data, which is referred to as piping. Self-reported behaviors, such as frequency of use, feature usage, tenure, and platform usage, are less valid and reliable compared to generating the same metrics through log data.
+   - **Monitoring Survey Paradata** - Survey paradata is data collected about the survey response process, such as the devices from which the survey was accessed, time to survey completion, and various response-related rates. By monitoring such metrics, the survey researcher can quickly apply improvements before the entire sample has responded to the survey.
+   - **Maximizing Response Rates** - In order to gather enough responses to represent the target population with the desired
+   level of precision, response rates should be maximized. The initial request with the survey on week one, a reminder postcard on week two, a replacement survey to non-respondents on week four, and a second replacement survey to non-respondents by certified mail on week seven.
+6. Data analysis and reporting
+   - **Data Preparation and Cleaning** - Cleaning and preparing survey data before conducting a thorough analysis are
+   essential to identify low-quality responses that may otherwise skew the results. When taking a pass through the data, survey researchers should look for signs of poor-quality responses. Duplicate responses, Speeders, Straight-liners and other questionable patterns, Missing data and break-offs, Missing data and break-off, Outliers and Inadequate open-ended responses.
+   - **Analysis of Closed-Ended Responses** 
+      - By looking at measures such as the frequency distribution, central tendency.
+      - While descriptive statistics only describe the existing data set, inferential statistics can be used to draw inferences from the sample to the overall population in question.
+      - Either the margin of error or the confidence interval of the sample’s data needs to be determined for such estimation
+      - A confidence interval thus represents the estimated range of a population’s mean at a certain confidence level.
+      - Hypothesis testing determines the probability of a hypothesis being true when comparing groups
+         - Bivariate correlations.
+         - Linear regression analysis indicates the proportion of variance in a continuous dependent variable that is explained by one or more independent variables.
+         - Logistic regression, Decision Tree, Factor Analysis and Cluster Analysis. 
+   - **Analysis of Open-Ended Comments** - The analysis of open-ended survey responses can be derived from the method of grounded theory. An interpretive method, referred to as coding, is used to organize and transform qualitative data from open-ended questions to enable further quantitative analysis.
+      - In most cases, as questions are customized to each individual survey, the researcher needs to establish the coding system using a deductive or an inductive approach.
+   - **Assessing Representativeness** - A key criterion in any survey’s quality is the degree to which the results accurately
+   represent the target population. If a survey’s sampling frame fully covers the population and the sample is randomly drawn from the sampling frame, a response rate of 100 % would ensure that the results are representative at a level of precision
+   based on the sample size.
+   - **Reporting Survey Findings**
+      -  Describe the original research goals and the used survey methodology. A detailed description of the survey methodology will explain the population being studied, sampling method, survey mode, survey invitation, fielding process, and response paradata.
+      - Furthermore, it is often necessary to include a discussion on how the respondents compare to the overall population.
 
 Questions to avoid during need-finding:
 
-1. Board questions
-2. Leading questions
-3. Double-barreled questions
-4. Recall questions
-5. Prediction questions
+1. Board questions - lack focus and include items that are not clearly defined or those that can be interpreted in multiple ways.
+2. Leading questions - manipulate respondents into giving a certain answer by providing biasing content or suggesting information the researcher is looking to have confirmed.
+3. Double-barreled questions - ask about multiple items while only allowing for a single response, resulting in less reliable and valid data
+4. Recall questions - require the respondent to remember past attitudes and behaviors, leading to recall bias (Krosnick & Presser, 2010) and inaccurate recollections
+5. Prediction questions- ask survey respondents to anticipate future behavior or attitudes, resulting in biased and inaccurate responses.
 
 Cognitive pretesting is conducted such that the researcher can identify disconnects between their own assumptions and how respondents will read interpret, and answer questions. The pretest could be as follows:
 
