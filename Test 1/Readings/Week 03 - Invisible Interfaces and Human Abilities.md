@@ -135,3 +135,89 @@ Two aspects of distance:
 2. **Articulatory distance** - the relationship between the meanings of expressions and their physical form (e.g., a graph in excel vs an interactive graph which changes based on input in Mathematica)
 
 > A direct manipulation interface amplifies our knowledge of the domain and allows us to think in the familiar terms of the application domain rather than in those of the medium of computation. But if we restrict ourselves to only building an interface that allows us to do things we can already do and to think in ways we already think, we will miss the most exciting potential of new technology: to provide new ways to think of and to interact with a domain.
+
+## THE PSYCHOLOGY OF EVERYDAY ACTIONS
+Agenda - First, how do people do things? It is easy to learn a few basic steps to perform operations with our technologies (and yes, even filing cabinets are technology). But what happens when things go wrong? How do
+we detect that they aren’t working, and then how do we know
+what to do? To help understand this, I first delve into human psychology and a simple conceptual model of how people select and then evaluate their actions
+
+
+### How People Do Things: The Gulfs of Execution and Evaluation
+
+- The role of the designer is to help people bridge the
+two gulfs.
+- The Gulf of Evaluation reflects the amount of effort that the person must make to interpret the physical satte of the device and to determine how well the expectations
+and intentions have been met. 
+- What are the major design elements that help bridge the
+Gulf of Evaluation? Feedback and a good conceptual mode.
+- The difficulties reside in their design, not in the people attempting to use them.
+
+- **Basic Tools** : We bridge the Gulf of Execution through the use of signifiers, constraints, mappings, and a conceptual model. We bridge the Gulf of Evaluation through the use of feedback and a conceptual model.
+
+### Seven Stages of Action
+
+1. Goal (form the goal) 
+2. Plan (the action) 
+3. Specify (an action sequence) 
+4. Perform (the action sequence)
+5. Perceive (the state of the world)
+6. Interpret (the perception)
+7. Compare (the outcome with the goal)
+
+* It has proven to be helpful in designing interaction. Not all of the activity in the stages is conscious. Goals tend to be, but even they may be subconscious. 
+* Most behavior does not require going through all stages in sequence; however, most activities will not be satisfied by single actions.
+
+- The action cycle can start from the top, by establishing a new goal, in which case we call it goal-driven behavior
+- But the action cycle can also start from the bottom, triggered by some event in the world, in which case we
+call it either data-driven or event-driven behavior
+- Opportunistic actions are those in which the behavior takes advantage of circumstances. Rather than engage in extensive planning and analysis, we go about the day’s activities and do things as opportunities arise
+- The seven stages provide a guideline for developing new products or services. The gulfs are obvious places to start, for either gulf, whether of execution or evaluation, is an opportunity for product enhancement. The trick is to develop observational skills to detect them. Most innovation is done as an incremental enhancement of
+existing products.
+
+### Human Thought: Mostly Subconscious
+- The mind is more difficult to comprehend than actions. Most of us start by believing we already understand both human behavior and the human mind.
+- The human mind is immensely complex, having evolved over
+a long period with many specialized structures. The study of the mind is the subject of multiple disciplines, including the behavioral and social sciences, cognitive science, neuroscience, philosophy, and the information and computer sciences. - Finger Move Experiments
+- Conscious attention is necessary to learn most things, but after the initial learning, continued practice and study, sometimes for thousands of hours over a period of years, produces what psychologists call “overlearning,
+
+
+- The earlier questions were memory for factual information, what is called declarative memory. - Phone number of Friend
+
+- The last question could have been answered factually, but is usually most easily answered by recalling the activities performed to open the door. This is called procedural memory. - Door knob location
+
+- Cognition and emotion cannot be separated. Cognitive thoughts lead to emotions: emotions drive cognitive thoughts. The brain is structured to act upon the world, and every action carries with it expectations, and these expectations drive emotions
+
+***Subconscious and Conscious Systems of Cognition***
+
+Subconscious->Conscious
+Fast->Slow
+Automatic->Controlled
+Multiple resources->Limited resources
+Controls skilled behavior->Invoked for novel situations: when learning, when in danger, when things go wrong
+
+### Human Cognition and Emotion
+Useful approximate model of human cognition and emotion
+is to consider three levels of processing: visceral, behavioral, and reflective.
+
+**Visceral**
+- The visceral system allows us to respond quickly and subconsciously, without conscious awareness or control
+- Visceral responses are fast and automatic.
+They give rise to the startle reflex for novel, unexpected events; for such genetically programmed behavior as fear of heights, dislike of the dark or very noisy environments, dislike of bitter tastes and the liking of sweet tastes, and so on.
+- It simply assesses the situation: no cause is assigned, no blame, and no credit
+- Visceral responses are fast and completely subconscious. They are sensitive only to the current state of things. Most scientists do not call these emotions: they are precursors to emotion.
+- For designers, the visceral response is about immediate perception: the pleasantness of a mellow, harmonious sound or the jarring, irritating scratch of fingernails on a rough surface.
+
+**Behavioral**
+- The behavioral level is the home of learned skills, triggered by situations that match the appropriate patterns. Actions and analyses at this level are largely subconscious. Even though we are usually aware of our actions, we are often unaware of the details
+- Pick up a cup, and then with the
+same hand, pick up several more items. You automatically adjust the fingers and the hand’s orientation to make the task possible
+
+
+**Reflective**
+- The reflective level is the home of conscious cognition. As a consequence, this is where deep understanding develops, where reasoning and conscious decision-making take place. 
+-  Reflection is cognitive, deep, and slow. It often occurs after the events have happened. It is a reflection or looking back over them, evaluating the circumstances,
+actions, and outcomes, often assessing blame or responsibility. 
+- Adding causal elements to experienced events leads to
+such emotional states as guilt and pride (when we assume ourselves to be the cause) and blame and praise (when others are thought to be the cause)
+
+### Design must take place in all 3 levels
