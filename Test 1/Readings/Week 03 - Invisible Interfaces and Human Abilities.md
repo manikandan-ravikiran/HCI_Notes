@@ -1,4 +1,4 @@
-# Week 4
+# Week 3
 
 > Ten questions on each test will be based on these readings. From the perspective of the test, your emphasis in reading these papers should be in getting a sufficient understanding of the material to answer high-level questions about the paper, as well as to be able to find answers quickly for more specific questions.
 
@@ -220,4 +220,12 @@ actions, and outcomes, often assessing blame or responsibility.
 - Adding causal elements to experienced events leads to
 such emotional states as guilt and pride (when we assume ourselves to be the cause) and blame and praise (when others are thought to be the cause)
 
-### Design must take place in all 3 levels
+* Design must take place in all 3 levels
+* **Levels of Processing and the
+Stages of the Action Cycle** - Visceral response is at the lowest level: the control of simple muscles and sensing the state of the world and body. The behavioral level is about expectations, so it is sensitive to the expectations of the action sequence and then the interpretations of the feedback. The reflective level is a part of the goal- and plan-setting activity as well as affected by the comparison
+of expectations with what has actually happened
+
+**Csikszentmihalyi’s work** - An easy task, far below our skill level, makes it so easy to meet expectations that there is no challenge. Very little or no processing effort is required, which leads to apathy or boredom. A difficult task, far above our skill, leads to so many failed expectations that it causes frustration, anxiety, and helplessness. The flow state occurs when the challenge of the activity just slightly exceeds our skill level, so full attention is continually required.
+
+
+### People as Storytellers
