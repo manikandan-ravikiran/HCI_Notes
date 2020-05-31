@@ -137,9 +137,11 @@ Two aspects of distance:
 > A direct manipulation interface amplifies our knowledge of the domain and allows us to think in the familiar terms of the application domain rather than in those of the medium of computation. But if we restrict ourselves to only building an interface that allows us to do things we can already do and to think in ways we already think, we will miss the most exciting potential of new technology: to provide new ways to think of and to interact with a domain.
 
 ## THE PSYCHOLOGY OF EVERYDAY ACTIONS
-Agenda - First, how do people do things? It is easy to learn a few basic steps to perform operations with our technologies (and yes, even filing cabinets are technology). But what happens when things go wrong? How do
-we detect that they aren’t working, and then how do we know
-what to do? To help understand this, I first delve into human psychology and a simple conceptual model of how people select and then evaluate their actions
+
+> Norman, D. (2013). Chapter 2: The Psychology of Everyday Actions. In The Design of Everyday Things: Revised and Expanded Edition. (pp. 37-73). Arizona: Basic Books.
+
+
+**Agenda** - First, how do people do things? why do they do things? But what happens when things go wrong? How do we detect that they aren’t working, and then how do we know what to do? To help understand this, I first delve into human psychology and a simple conceptual model of how people select and then evaluate their actions
 
 
 ### How People Do Things: The Gulfs of Execution and Evaluation
@@ -221,6 +223,7 @@ actions, and outcomes, often assessing blame or responsibility.
 such emotional states as guilt and pride (when we assume ourselves to be the cause) and blame and praise (when others are thought to be the cause)
 
 * Design must take place in all 3 levels
+
 * **Levels of Processing and the
 Stages of the Action Cycle** - Visceral response is at the lowest level: the control of simple muscles and sensing the state of the world and body. The behavioral level is about expectations, so it is sensitive to the expectations of the action sequence and then the interpretations of the feedback. The reflective level is a part of the goal- and plan-setting activity as well as affected by the comparison
 of expectations with what has actually happened
@@ -229,3 +232,52 @@ of expectations with what has actually happened
 
 
 ### People as Storytellers
+
+- Conceptual models are a form of story, resulting from our predisposition to find explanations. These models are essential in helping us understand our experiences, predict the outcome of our actions, and handle unexpected occurrences.
+- One commonly held folk theory of the working of a
+thermostat is that it is like a valve: the thermostat controls how much heat (or cold) comes out of the device. Hence, to heat or cool something most quickly, set the thermostat so that the device is on maximum. The theory is reasonable, and there exist devices that operate like this, but neither the heating or cooling equipment for a
+home nor the heating element of a traditional oven is one of them.
+- The information provided misleads people into forming the wrong, quite inappropriate model - Don Normans fridge.
+- It is that everyone forms stories (conceptual models) to explain what they have observed. In the absence of external
+information, people can let their imagination run free as long as the conceptual models they develop account for the facts as they perceive them.
+
+### Blaming Wrong things
+- People try to find causes for events. They tend to assign a causal relation whenever two things occur in succession. If some unexpected event happens in my home just after I have taken some action, I am
+apt to conclude that it was caused by that action, even if there really was no relationship between the two.
+- The tendency to repeat an action when the first attempt fails can be disastrous. This has led to numerous deaths when people tried to escape a burning building by attempting to push open exit doors that opened inward, doors that should have been pulled. As a result, in many countries, the law requires doors in public places to open outward, and moreover to be operated by so-called panic bars, so that they automatically open when people, in a panic to escape a fire, push their bodies against them
+- Suppose I try to use an everyday thing, but I can’t. Who is at fault: me or the thing? We are apt to blame ourselves, especially if others are able to use it. Suppose the fault really lies in the device, so that lots of people have the same problems. Because everyone
+perceives the fault to be his or her own, nobody wants to admit to having trouble.
+- It seems natural for people to blame their own misfortunes on the environment. It seems equally natural to blame other people’s misfortunes on their personalities
+- In all such cases, whether a person is inappropriately accepting blame for the inability to work simple objects or attributing behavior to environment or personality, a faulty conceptual model is at work.
+
+### Learned Helplessness
+- The phenomenon called learned helplessness might help explain the self-blame. It refers to the situation in which people experience repeated failure at a task. As a result, they decide that the task cannot be done, at least not by them: they are helpless. They stop trying.
+- When people have trouble using technology, especially when they perceive (usually incorrectly) that nobody else is having the same problems, they tend to blame themselves. Worse, the more they have trouble, the more helpless they may feel, believing that they must be technically or mechanically inept
+
+
+### Positive Psychology
+- Just as we learn to give up after repeated failure, we can learn optimistic, positive responses to life.
+- Scientists know this. Scientists do experiments to learn how the world works. Sometimes their experiments work as expected, but often they don’t. Are these failures? No, they are learning experiences. Many of the most important scientific discoveries have come from these so-called failures.
+
+### Falsely Blaming Yourself
+- The idea that a person is at fault when something goes wrong is deeply entrenched in society. That’s why we blame others and even ourselves. Unfortunately, the idea that a person is at fault is imbedded in the legal system. When major accidents occur, official courts of inquiry are set up to assess the blame. More and more often the blame is attributed to “human error.”
+
+### HOW TECHNOLOGY CAN ACCOMMODATE HUMAN BEHAVIOR
+- Microsoft excel data example
+
+### The Seven Stages of Action: Seven Fundamental Design Principles
+
+1. Discoverability. It is possible to determine what actions are possible
+and the current state of the device.
+2. Feedback. There is full and continuous information about the results
+of actions and the current state of the product or service. After an
+action has been executed, it is easy to determine the new state.
+3. Conceptual model. The design projects all the information needed
+to create a good conceptual model of the system, leading to understanding and a feeling of control. The conceptual model enhances
+both discoverability and evaluation of results.
+4. Affordances. The proper affordances exist to make the desired actions possible.
+5. Signifiers. Effective use of signifiers ensures discoverability and that
+the feedback is well communicated and intelligible.
+6. Mappings. The relationship between controls and their actions follows the principles of good mapping, enhanced as much as possible
+through spatial layout and temporal contiguity.
+7. Constraints. Providing physical, logical, semantic, and cultural constraints guides actions and eases interpretation
