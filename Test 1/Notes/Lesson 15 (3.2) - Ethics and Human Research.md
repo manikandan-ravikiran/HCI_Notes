@@ -14,7 +14,9 @@ In general, the benefits to society must outweigh the risks to the subjects in t
 
 - **Belmont Report** - summarizes basic ethical principles that research must follow in order to receive government support.
 	- demanded rigoruous consent procedures
-	- Positive outweighed negatives and rights are always preserved.
+	- Positive outweighed negatives and rights are always preserved
+	- benefits of study should outweight risk to participants
+	- Fair selection of subjects
 
 ## Value of Research Ethics
 - Benefits are worth the risk and are significant in nature
@@ -83,4 +85,4 @@ In general, the benefits to society must outweigh the risks to the subjects in t
 	- Not informed consent
 
 ## Important Videos
-6,7,
+5-8
