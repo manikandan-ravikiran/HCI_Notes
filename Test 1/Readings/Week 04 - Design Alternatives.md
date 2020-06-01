@@ -8,39 +8,149 @@
 
 Topic: brainstorming is more than the pooling of “invented” ideas, it involves the sharing and interpretation of concepts in unintended and (ideally) unanticipated ways. Ideation, in short, is the radical redistribution of ideas to “unconventionalize” a given context.
 
-Effective brainstorming:
 
-1. Criticism is ruled out - adverse judgment of ideas must be withheld until later
-2. “Free-wheeling” is welcomed - the wilder the idea the better; it is easier to tame down than to think up
-3. Quantity is wanted - the greater the number of ideas, the more the likelihood of useful ideas
-4. Combination and improvement are sought - in addition to contributing ideas of their own, participants should suggest how ideas of others can be turned into better ideas; or how two or more ideas can be joined into still another idea
+- **Cheatstorming** - no new ideas are necessary for further ideation to occur
 
-Limitations of brainstorming:
 
-1. Production blocking
-2. Evaluation apprehension
-3. Free riding
+Goal of Paper - Specifically we focused our research on how digital tools might be used to enhance the practice of group ideation among members of asynchronously distributed collaborative teams
 
-Structuring ideation:
+Mainfindng - that ideation need not be limited to the generation of new ideas. From this perspective, the value of
+group ideation activities such as brainstorming has less to do with the creation of novel ideas than its cultural influence on
+the ideating team.
 
-1. Face-to-face brainstorming
-2. Nominal idea generation sessions
-3. Computer mediated ideation
 
-Model for group ideation:
+### Osborns steps for brainstorming
+(1) Fact-finding: Problem-definition and preparation; gathering and analyzing the relevant data.
+(2) Idea-finding: Idea-production and idea-development; thinking of tentative ideas and possible leads and then
+selecting and combining them.
+(3) Solution finding: Evaluation and adoption; verifying the offered solutions, and deciding on and implementing a final
+selected set.
+
+
+### Idea Finding Phase
+
+1. Criticism is ruled out: Adverse judgment of ideas must be withheld until later.
+2. “Free-wheeling” is welcomed: the wilder the idea the better; it is easier to tame down than to think up.
+3. Quantity is wanted: The greater the number of ideas, the more the likelihood of useful ideas.
+4. Combination and improvement are sought: In addition to contributing ideas of their own, participants should suggest how ideas of others can be turned into better ideas; or how two or more ideas can be joined into still another idea
+
+
+### Limitation of Brain storming
+
+- **Production blocking:** Since only one person speaks at a time in a group setting, others are inhibited from expressing their ideas while another team-member is speaking, potentially slowing their ability to generate new ideas of their own. being in a situation where participants must passively listen to others’ ideas may distract and interrupt their thought processes and ability to record their own ideas
+- **Evaluation apprehension** - Creativity by definition is an unconventional act, and being
+creative therefore involves taking personal risks [13]. Even though one of the most important rules for successful
+brainstorming is to “defer judgment,” the fear of being criticized for having original ideas is often pervasive. Productivity loss was observed in groups that had been informed of their presence relative to a control group that had not been told
+- **Free riding** -It may be the case that a brainstorming participant’s motivation to work decreases if they do not perceive that they will be recognized for their participation
+
+
+### Three forms of Ideation
+
+- **Face-to-face Brainstorming Groups** The classic brainstorming session is done in face-to-face
+groups during a fixed period of time, usually between 15 to 45 minutes [33, p. 178], and is facilitated by a trained
+brainstorming expert that enforces the rules of brainstorming in the group. Participation is simultaneous and spontaneous:
+all participants can see each other’s ideas and are encouraged to build upon them
+- ** Nominal idea generation** It is done individually. The main element that defines this method is that participants are not
+influenced by the variety of social factors at play in a traditional brainstorming group: they cannot build on other
+participants’ ideas because they are not exposed to them, they will be less influenced by perceived criticisms to their ideas in real-time (although they may be reluctant to share them afterwards), they may be highly motivated to perform their
+work in the anticipation that their efforts will eventually be rewarded, and so on
+- **Computer Mediated Ideation** - Advances in digital technology have led to the potential for
+a variety of computer-mediated ideation techniques. Within this category, the term “electronic brainstorming” refers to
+any kind of brainstorming mediated by computers. One issue attempting to define electronic brainstorming is that any online activity that involves people entering information into cloud-based systems can be considered the contribution of “ideas” to a digital pool.
+
+### Methodology and Design Research
+
+- Our investigation began with the simple premise that collaborative ideation could be enhanced through the use of
+distributed online tools, and design-driven approaches could be used to explore and investigate the potentialities of this
+space.
+
+Opportunity finding - Authors for seven areas of oppurtunity 
+Electronic Brainstorming - Created how questions for oppuntunity with 50 ideas from 30+ participants and voted to get 35 ideas
+Concept Selection - Arrangement into Impact/Achievability matrix and find out chain storming and cheat storming
+
+### Model for group ideation:
 
 1. Prompting
 2. Sharing
 3. Selecting
 4. Committing
 
-- **Cheatstorming** - no new ideas are necessary for further ideation to occur
+
+### Experiments
+
+**Cheat Storming**
+The basic premise of this paradigm is as follows: imagine a brainstorm has been performed, resulting in 50 ideas. Participants vote on their favorite ideas, and some of them are selected for implementation. Now another brainstorm is performed on a different topic, resulting in 50 more ideas and additional voting. In time, many hundreds of brainstorm questions are asked, and thousands of ideas are generated and saved. Some have been implemented, and others have not. At this point, a wealth of valuable brainstorming has already occurred. The cheatstorming paradigm proposes that no new ideas are necessary for further ideation to occur. Given a new prompt question and a set of 50 random previous ideas to draw from, cheatstorming simply bypasses the concept generation phase altogether and jumps directly to voting on which ideas to advance.
+
+Experiment #1
+- Create 5 questions and Random Solutions and Cheat storm to find correct and reliable solutions
+
+Experiment #2 - how the variable effects of different types of “idea input”
+would affect cheatstorming results. 
+- Same question + different types of preconcienved ideas related unrelated and diverse with 4 criterias
+
+
+### Findings
+
+**Process of Cheatstorming**
+- Cheatstorming was shown to be a fast and enjoyable means
+of creative ideation
+- Novel ideas due to related unrelated and diverse
+- Indeed, the greatest challenge and thrill of the cheatstorming method is being faced with the
+task of combining what often seem to be nonsensical results from previous brainstorming sessions
+	- The natural reaction of the cheatstormer—indeed, their only real option—is to force an
+inventive connection between ideation and prompt.
+	- Study 2, with its larger set of inputs and greater creative freedom, introduced a more
+overwhelming quantity of possible connections and, consequently, felt more tedious and less productive.
+
+SUggestions
+- Timer constraints
+- Dont bias by color coding the idea types
+-  In this regard, we believe that ideas that have been previously “used” by participants
+should be removed from the input pool in successive rounds
+
+
+**Results of Cheatstorming**
+- Relative to the baseline brainstorm condition (condition A), the most noticeable quality of the winning cheatstormed
+ideas was that all of them were dramatically technological in nature
+	-  In condition A, the baseline condition, the ideas felt the most immediately useful and
+applicable to the project because they did not all have such a technology focus
+	- Condition B, the overlapping diverse input group, was the most palatable set of the remaining ideas. It
+seemed to introduce fresh new ideas that were grounded in something familiar.
+	- Condition C, the unrelated diverse input group, was described as “the most random.” Ideas in this
+set—with names such as “tempo of experience control” and “real-time story-world generation”—were exciting but felt
+out-of-touch with project goals.
+	- Condition D, the unrelated diverse input group, were the most technologically immersive
+
+
+### Stages of Ideation
+
+(1) prompting, the stage during which the ideation facilitator
+presents a challenge to the group that will drive ideation; 
+(2) sharing, the stage in which participants suggest and
+communicate ideas within the context of the medium that
+frames the activity (i.e., orally, and/or using a whiteboard,
+sticky-notes, database system, and so on); 
+(3) selecting, the phase during which participants vote and/or otherwise
+determine their favorite ideas; and
+(4) committing, the stage at which a final criterion is set to evaluate and prioritize
+ideas, ultimately determining which ones the team moves
+forward with and (ideally) develop.
+
+
+
+
+
+
+
+
 
 ## Chapter 6: The Process Of Interaction Design
 
 > Rogers, Y., Sharp, H., & Preece, J. (2011). Chapter 6: The Process of Interaction Design. In Interaction Design: Beyond Human-Computer Interaction. John Wiley & Sons.
 
 Topic: how to design and build interactive products.
+
+
 
 Main points:
 
