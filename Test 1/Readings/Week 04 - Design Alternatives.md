@@ -137,20 +137,11 @@ ideas, ultimately determining which ones the team moves
 forward with and (ideally) develop.
 
 
-
-
-
-
-
-
-
 ## Chapter 6: The Process Of Interaction Design
 
 > Rogers, Y., Sharp, H., & Preece, J. (2011). Chapter 6: The Process of Interaction Design. In Interaction Design: Beyond Human-Computer Interaction. John Wiley & Sons.
 
 Topic: how to design and build interactive products.
-
-
 
 Main points:
 
@@ -162,7 +153,10 @@ Main points:
 
 ### What Is Interaction Design About
 
-Interaction design is about allowing users' concerns to direct the development vs technical concerns.
+- The definition of design from the Oxford English Dictionary captures the essence of design very well: "(design is) a plan or scheme conceived in the mind and intended for subsequent execution."
+- In interaction design, we investigate the artifact's use and target domain by taking a user-centered ap'proach to development
+- Although possible, it is unlikely that just one person will be involved in developing and using a system and therefore the plan must be communicated. This requires it to be captured and expressed in some suitable form that allows review, revision, and improvement. There are many ways of doing this, one of the simplest being to produce a series of sketches. Other common approaches are to write a description in natural language, to draw a series of diagrams, and to build prototypes
+- Interaction design involves developing a plan which is informed by the product's intended use, target domain, and relevant practical considerations.
 
 ### Four Basic Activities Of Interaction Design
 
@@ -170,22 +164,57 @@ Below are four basic activities of interaction design:
 
 1. Identifying needs and establishing requirements
 2. Developing alternative designs that meet those requirements
+	-  This activity can be broken up into two sub-activities: conceptual design and physical design. 
+	-  Conceptual design involves producing the conceptual model for the product, and a conceptual model describes what the product should do, behave and look like
 3. Building interactive versions so that they can be communicated and assessed
+	- The most sensible way for users to evaluate such designs, then, is to interact with them. This requires an interactive version of the designs to be built, but that does not mean that a software version is required. 
+	- Paper based prototypes
 4. Evaluating them
+	- Evaluation is the process of determining the usability and acceptability of the product or design that is measured in terms of a variety of criteria including the number of errors users make using it, how appealing it is, how well it matches the requirements, and so on. 
 
 ### Key Characteristics Of The Interaction Design Process
 
-1. Focus on users
-2. Specific usability and user experience goals
-3. Iteration
+1. Focus on users - encourage focus on such issues and provide opportunities for evaluation and user feedback
+2. Specific usability and user experience goals - should be identified, clearly documented, and agreed upon at the beginning of the project.
+3. Iteration -  allows designs to be refined based on feedback
 
-### How Do You Generate Alternative Designs
-
-Looking at others' designs provides useful inspiration and encourages designers to consider alternative design solutions, which is key to effective design.
+### Pratical Issues
+1. Who are the users? - Primary users are those likely to be frequent hands-on users of the system; secondary users are occasional users or those who use the system through an intermediary; and tertiary users are those affected by the introduction of the system or who will influence its purchase. Stakeholders are "people or organizations who will be affected by the system and who have a direct or indirect influence on the system requirements
+2. What do we mean by needs? 
+	- Instead, we have to approach it by understanding the characteristics and capabilities of the users, what they are trying to achieve, how they achieve it currently, and whether they would achieve their goals more effectively if they were supported differently
+	- If a product is a new invention, then it can be difficult to identify the users and representative tasks for them
+3.  How do you generate alternative designs? 
+	- Normally, innovations arise through cross-fertilization of ideas from different applications, the evolution of an existing product through use and observation, or straightforward copying of other, similar products
+	- That browsing a collection of designs will inspire designers to consider alternative perspectives, and hence alternative solutions.
+	- Alternatives come from looking at other, similar designs, and the process of inspiration and creativity can be enhanced by prompting a designer's own experience and by looking at others' ideas and solutions
+4.  How do you choose among alternative designs?
+	- Those that are about externally visible and measurable features, and those that are about characteristics internal to the system that cannot be observed or measured without dissecting it.
+	- So, one answer to the question posed above is that we choose between alternative designs by letting users and stakeholders interact with them and by discussing their experiences, preferences and suggestions for improvement 
+	- Another basis on which to choose between alternatives is "quality," but this requires a clear understanding of what "quality" means. People's views of what is a quality product vary, and we don't always write it down.
+	- The process of writing down formal, verifiable-and hence measurable-usability criteria is a key characteristic of an approach to interaction design called usability engineering that has emerged over many years and with various proponents.
 
 ### Life Cycle Models: Showing How The Activities Are Related
 
 The term _life cycle model_ is used to represent a model that captures a set of activities and how they are related.
+
+#### A simple lifecycle model for interaction design
+- It is based on our observations of interaction design and on information we have gleaned in the research for this book.
+- Commonly used approach - see figure
+
+Water Fall model and Spiral model for software design
+- Two features of the spiral model are immediately clear from risk analysis and prototyping. The spiral model incorporates them in an iterative framework that allows ideas and progress to be repeatedly checked and evaluated. Each iteration around the spiral may be based on a different lifecycle
+model and may have different activities. 
+
+Rapid Application Development
+- Time Boxing
+- Joint Application Development
+
+
+#### HCI Lifecycle Models
+- Star Lifecycle Model
+	- Flexibile and do anything kind of approach
+- Usability Engineering Lifecycle Model
+	-  However, what her lifecycle does provide is a holistic view of usability engineering and a detailed description of how to perform usability tasks, and it specifies how usability tasks can be integrated into traditional software development lifecycles.
 
 ## Observations On Concept Generation And Sketching In Engineering Design
 
