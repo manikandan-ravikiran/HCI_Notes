@@ -80,7 +80,7 @@ Language—the mental faculty that allows humans to communicate—is universally
 
 If redundancy in language is what we inherently know, entropy is what we don’t know—the uncertainty about forthcoming letters, words, phrases, ideas, concepts, and so on. Clearly, redundancy and entropy are related: If we remove what we know, what remains is what we don’t know.
 
-## Human Performance
+### Human Performance
 
 Better performance is typically associated with faster or more accurate behavior, and this leads to a fundamental property of human performance—the speed-accuracy trade-off: go faster and errors increase; slow down and accuracy improves.
 

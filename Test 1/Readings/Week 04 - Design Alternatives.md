@@ -209,7 +209,6 @@ Rapid Application Development
 - Time Boxing
 - Joint Application Development
 
-
 #### HCI Lifecycle Models
 - Star Lifecycle Model
 	- Flexibile and do anything kind of approach
