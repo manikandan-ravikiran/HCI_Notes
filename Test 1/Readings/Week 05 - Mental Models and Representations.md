@@ -29,9 +29,8 @@ Topic: the big errors are the easy ones—they get fixed. It is the small errors
 problems, lots of them. Let’s examine a few of thes
 
 
-### Save vs Discard Error
-- This scenario, told by Cooper (1999, 14), is a clear and serious
-UI design jaw. The alert reader will quickly retort, “Yes, but if the ‘Discard changes?’ dialog box defaults to ‘No,’ the information is safe.” But that misses the point. The point is that a user expectation is broken. Broken expectations sooner or later cause errors.
+
+- Save vs Discard Error - This scenario, told by Cooper (1999, 14), is a clear and serious UI design flaw. The alert reader will quickly retort, “Yes, but if the ‘Discard changes?’ dialog box defaults to ‘No,’ the information is safe.” But that misses the point. The point is that a user expectation is broken. Broken expectations sooner or later cause errors.
 - Capslock error - The capslock error is not so bad. But it’s bad enough that it occasionally receives enough attention to be the beneiciary of the few extra lines of code necessary to pop up a rsto_xkrw alert.
 - Velocity of Text dragging event. 
 - Focus and no focus in text box. Automatic focus move while entering phone number.
