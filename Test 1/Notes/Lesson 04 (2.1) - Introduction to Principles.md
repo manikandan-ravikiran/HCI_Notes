@@ -1,11 +1,12 @@
 # Lesson 4
 
-In this lesson we will cover:
+In this lesson we will cover: Fundamental building blocks and foundational elements
 
 1. Focusing on the task
 2. Role of the interface in mediating users and tasks
 3. The role of the user: Processor? Predictor? Participant?
 4. User experience at multiple levels
+
 
 ## Users and Tasks
 1. Users use interace to do a task
@@ -19,10 +20,10 @@ How do should we go about identifying a task?
 1. Watch real users - get people and ask them to work with you
 2. Talk to them - talkthrough the user 
 3. Start small - find small task which user performs
-4. Abstract up - keep asking why till you reach beyond scope of design
+4. Abstract up - keep asking why till you reach beyond scope of design (small + small + big - series of why)
 5. You are not your user
 
-Usually these ecomes in HCI methods
+Usually these comes in HCI methods
 
 ## Usefulness And Usability
 
@@ -30,7 +31,7 @@ Remember that one of the goals of HCI is to not only make a product that is usef
 
 Map vs GPS navigation. Manual writing of terms. Gmaps
 
-- **Cognitive load** - the total mental effort being used in working memory
+- **Cognitive load** - the total mental effort being used in working memory.  GMaps reduces cognitive load.
 
 ## HCI principles
 
@@ -53,7 +54,7 @@ There are three different roles a human can play:
 
    - Humans knowledge experience expectation and thought process
    - Stems from Cognitivism (what goes on in the users mind?)
-   - Interface must be based on knowledhe and levverage what they know - fit with knowledge
+   - Interface must be based on knowledhe and leverage what they know - fit with knowledge
    - Evaluated by qualitative studies (exitu studies)
    - 1 user - 1 task
 
@@ -115,6 +116,10 @@ Participant
 		- Lots of uncontrollable variables
 
 	Each design informs one another	
+
+
+![Different Models](./img1.png)
+
 
 ## God vs bad design
 - Processor - Instantaneous.
