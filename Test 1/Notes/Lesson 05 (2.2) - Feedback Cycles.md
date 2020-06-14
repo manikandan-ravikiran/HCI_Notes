@@ -23,6 +23,7 @@ Goal is cook - intent is microwave for 1 min.
 
 How do we go about bridging the gap between user's goals and actual execution?
 
+Tips:
 1. Make functions discoverable
 2. Let the user mess around
 3. Be consistent with other tools - Ctrl c for copy
@@ -40,6 +41,8 @@ There are a number of components in the gulf of evaluation:
 3. Evaluation - Evaluate the interpretation to check if goals was realized or not.
 
 How do we go about bridging the gap between the effects of user's actions and actual results?
+
+Tips:
 
 1. Give feedback constantly at every step on process
 2. Give feedback immediately
