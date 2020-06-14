@@ -36,9 +36,9 @@ Psychology of what humans can do, we will also cover three systems: input proces
 - **Chunking** - chunking is a grouping together several bits of information into one chunk
 - **Perceptual store** - very short term memory lasting less than a second. 
 	- Baddley - Hitch memory model
-		- Visuospatial Sketchpad
-		- Phonologic loop (verbal/ audotry information)
-		- Episodic Buffer (integrating/)
+		- Visuospatial Sketchpad - stores visual information
+		- Phonologic loop - (verbal/ audotry information)
+		- Episodic Buffer - (integrating information from other system)
 		- Central Executive
 		- Expertise delays forgetting in perceptial buffer
 - **Short-term memory** - memory that is able to hold about four to five chunks at a time
