@@ -52,7 +52,14 @@ Tips:
 
 
 ## Don Normans design
-7 Questions
+7 "how easily" Questions
+
+![7 Questions](./img2.PNG)
+
+![7 Questions - Human perspective](./img3.PNG)
+
+![7 Questions - Phases ](./img4.PNG)
+
 
 ## Important Videos
 Videos 3 to 9
