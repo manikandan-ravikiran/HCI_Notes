@@ -7,20 +7,27 @@ In this lesson we cover design principles, specifically the following:
 3. Nielsen's Ten Heuristics design and evaluation
 4. Seven Principles of Universal Design
 
+
 ## 15 Priciples
+![7 Questions - Human perspective](./img5.PNG)
+
+![7 Questions - Human perspective](./img6.PNG)
 
 - **Discoverability** - relevant function should be made visible so the user can discover them as opposed to having to read about them in some documentation or learn them through some tutorials
 	- when user doesnt know what to do, they should be able to figure out what to do
 	- Dont go crazy (constantine and lockwood)
 
+![7 Questions - Human perspective](./img7.PNG)
 
 - **Simplicity** 
 	- There is often tension between discoverability and simplicity. One argues to be seen and on argues to keep the interface simple, a balance between these two is often required.
 	- use of design is easy to understand, regardless of user's experience, knowledge, language skills, or current concentration level
 	- user should be given only whats needed.
 
-- **Affordances** - the design of the thing affords or hints at the way it's suppose to be used.
+![7 Questions - Human perspective](./img8.PNG)
 
+- **Affordances** - the design of the thing affords or hints at the way it's suppose to be used.
+![7 Questions - Human perspective](./img9.PNG)
 	- Signifiers are meant to close the gap between the affordance of an object (how the object suggests it should be used) and the perceived affordance (what the user thinks on how the object should be used).
 		- Affordance - Inherhent property of device. We cant introduce it.
 		- Perceived - What human perceives. But it can be wrong.
@@ -30,6 +37,7 @@ In this lesson we cover design principles, specifically the following:
 	- Relationship between two things
 	- Mapping user - worlds (cut copy paste)
 	- refers to creating interfaces where the design makes it clear what the effect will be when using them (this is different than affordances where affordances suggests how to use objects)
+![7 Questions - Human perspective](./img10.PNG)
 
 ## Mapping vs Affordance
 
@@ -42,21 +50,43 @@ In this lesson we cover design principles, specifically the following:
 ## Additional Principles
 
 - **Perceptibility** - refers to the user's ability to perceive the current state of the system. (On or off in switch). Problem in David's cieling fan
+![7 Questions - Human perspective](./img11.PNG)
 
 - **Consistency** - we should be consistent both within and across interfaces to minimize the amount of learn the user needs to do to learn our interface; in this way we create affordances on our own.
 	- URL in blue in wiki page.
 	- Common functions across interfaces.
 	- Ordering menus/ Shortcuts in PPT.
 
+![7 Questions - Human perspective](./img13.PNG)
+
+
 - **Flexibility** - wherever possible, we should support the different interactions in which people engage naturally, rather than forcing them into one against their expertise or against their preference
+
+
+
+![7 Questions - Human perspective](./img14.PNG)
 
 - **Equity** - complementary to flexibility, helping all users have the same user experience. Avoid segregation and stigmatization.
 
+
+![7 Questions - Human perspective](./img15.PNG)
+
 - **Ease and comfort** - the design can be used efficiently an comfortably and with a minimum of fatigue; appropriate size and space is provided for approach, reach, manipulation, and use regardless of user's body size, posture, or mobility
+
+
+
 
 - **Structure** - we should organize our user interfaces in ways that helps the user's mental model match the actual content of the task
 
+![7 Questions - Human perspective](./img16.PNG)
+
+<!-- ![7 Questions - Human perspective](./img17.PNG) -->
+
 - **Constraints** - preventing the user from putting an input that wasn't going to work anyway. UI design is transparent. Constraint is visible.
+
+
+![7 Questions - Human perspective](./img18.PNG)
+
 
 Norman's four types of constraints:
 
@@ -68,7 +98,14 @@ Norman's four types of constraints:
 How do we deal with constraints? There are two ways:
 
 - **Tolerance** - users shouldn't be at risk of causing too much trouble accidentally. Undo and Redo.
+
+
+![7 Questions - Human perspective](./img19.PNG)
+
+
 - **Feedback** - user should be informed on why the error happened and how to avoid it in the future
+
+![7 Questions - Human perspective](./img20.PNG)
 
 One last heuristic regarding user error:
 
