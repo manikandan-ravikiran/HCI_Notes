@@ -51,7 +51,7 @@ How do we accomplish invisible interfaces? Below are five tips:
 1,5,11,13,14,15
 
 
-
+<!-- 
 ## Section Quizzes
 
 ### Reflections: Direct Manipulation
@@ -79,3 +79,4 @@ When using my iTouch for the first time, I really enjoyed how easy it was to sel
 _How would we design an invisible interface for universal remote control, one that doesn't have the learning curves that remotes typically have?_
 
 I think one of the best things Apple did for redesigning the mobile phone and music player interface was to make it touch screen. Similarly if electronic companies like Sony are able to make their remotes touch screen it could make it easier for users to control things like TVs. Another way to do this is through voice control.
+ -->
