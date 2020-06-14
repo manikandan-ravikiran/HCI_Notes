@@ -118,7 +118,7 @@ Participant
 	Each design informs one another	
 
 
-![Different Models](./img1.png)
+![Different Models](./img1.PNG)
 
 
 ## God vs bad design
