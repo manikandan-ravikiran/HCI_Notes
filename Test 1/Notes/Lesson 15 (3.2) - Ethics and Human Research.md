@@ -47,12 +47,18 @@ In general, the benefits to society must outweigh the risks to the subjects in t
 	- Statistical Analysis
 	- Start and End dates
 
+![7 Questions - Human perspective](./img22.PNG)
+![7 Questions - Human perspective](./img23.PNG)
+![7 Questions - Human perspective](./img24.PNG)
+![7 Questions - Human perspective](./img25.PNG)
+![7 Questions - Human perspective](./img26.PNG)
+
 ## Human Subject Interaction details
 
 - Will directly involve direct interaction
 - describe subjects and data
 - Vulnerable population - special accomodation is to be needed
-- Scientific justification is needed
+- Scientific justification is needed for no of participants
 - Effect size is needed
 - Inclusion and Exclusion status
 - Subjects age ranges
