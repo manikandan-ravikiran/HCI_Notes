@@ -1,6 +1,6 @@
 # Lesson 11
 
-In this lesson, we will look into the four models of context surrounding HCI:
+In this lesson, we will look into the four models of context/theories surrounding HCI:
 
 1. Distributed cognition
 2. Social cognition
@@ -9,7 +9,7 @@ In this lesson, we will look into the four models of context surrounding HCI:
 
 ## Distributed Cognition
 
-Distributed cognition suggests models of cognition should be extended outside the mind. An example is you can either add large numbers in your head (much more difficult) or add large numbers on a piece of paper. Each object in the the process can be said to extend the cognitive process.
+Distributed cognition suggests models of cognition should be extended outside the mind. An example is you can either add large numbers in your head (much more difficult) or add large numbers on a piece of paper. Each object in the the process can be said to extend the cognitive process. Dont get smarter by pen and paper, cognition got distributed among the artifacts.
 
 ## How A Cockpit Remembers Its Speeds
 
@@ -17,18 +17,26 @@ Given the dynamic nature of flight, how does a cockpit remember its speeds?
 
 The paper references to a cockpit and not one individual component as the cockpit comprises of more than one cognitive component to remember speeds:
 
-1. Long-term memory: a library of configurations
-2. Short-term memory: a specific configuration
-3. Working memory: use of speed bugs on a dial
+1. Long-term memory: a library of configurations (booklet)
+2. Short-term memory: a specific configuration (one sheet)
+3. Working memory: use of speed bugs on a dial 
 4. Deliberation: the two pilots in the cockpit
 
 Each one of these components helps in remembering the speed of a plane by serving as an individual cognitive component in the cognitive system.
+
+## Distributed Cognition To Cognition Load
+
+- Artifacts are extra memory to brain. Driving example is cognitive overload. GPS is a approach. Cruise control. Offload tasks to artifacts
+
+## Distributed Cognition as Lens
+
+- A way of approaching/looking at  the problem/design. Seperation of monitors.
 
 ## Distributed Cognition To Social Cognition
 
 Distributed cognition is concerned with how the mind can be extended by relations with other artifacts and other individuals.
 
-Social cognition is concerned with distributing cognition across individuals.
+Social cognition is concerned with distributing cognition across individuals. Example : map reading during driving in old days.
 
 ## Social Cognition
 
@@ -52,11 +60,13 @@ Memory is context dependent. People will often remember e.g., a list of personal
 
 A massive and well-developed set of theories regarding interaction between various pieces of an activity. This theory predates HCI and there are some contributions of activity theory to HCI we should be aware of:
 
+- It predates HCI
+
 1. Activity theory generalizes our unit of analysis from the task to the activity; we're not just interested in what users doing but why users are doing it
 2. Activity theory puts an emphasis on the idea that we can create low level operations from higher level actions
 3. Activity theory points out that actions by the user can actually move up and down a hierarchy
 
-## Section Quizzes
+<!-- ## Section Quizzes
 
 ### Exercise: Distributed Cognition
 
@@ -79,3 +89,4 @@ When I am at home watching lectures or working on a project it is much easier to
 _How do we design a video gaming system that protects users from false perceptions?_
 
 There should be some sort of privacy settings for the user, only certain people can see how much video games the user plays. The user should have the power to control these settings.
+ -->
