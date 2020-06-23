@@ -22,11 +22,11 @@ This lesson will cover the following topics:
 
 ## 5 Tips: What To Evaluate
 
-1. Efficiency
-2. Accuracy
-3. Learnability
-4. Memorability
-5. Satisfaction
+1. Efficiency - how long does user take to achieve text (Expert)
+2. Accuracy - how many users does users commit while executing a task (Expert)
+3. Learnability - How long does user take to reach expertise
+4. Memorability - users abiility to use interface over time
+5. Satisfaction - Cognitive load, how many actually download the app?
 
 ## Evaluation Timeline
 
@@ -37,7 +37,7 @@ Regarding purpose:
 1. **Formative** - primary purpose is to help redesign and improve our interface
 2. **Summative** - the intention of conclusively saying at the end what the difference was
 
-Regarding approach:
+Regarding approach: Ways to fullfill purpose
 
 1. Qualitative - the goal is to help us improve and understand tasks
 2. Predictive - inform how we revise and improve our interface over time
@@ -48,24 +48,24 @@ Regarding data:
 1. Qualitative - always useful to improve our interfaces
 2. Quantitative - while always useful, can only arise when we have rigorous evaluations
 
-Regarding setting:
+Regarding setting: where does it take place.
 
 1. Lab testing - helps us focus exclusively on the interface early on
 2. Field testing - helps us focus more on the interface in context
 
 ## Evaluation Design
 
-1. Define the task
-2. Define performance measures
-3. Develop the experiment
-4. Recruit participants
+1. Define the task - very large or very small task.
+2. Define performance measures - how are we going to measure this.
+3. Develop the experiment - How we find user performance on the measures.
+4. Recruit participants - Ethics
 5. Do the experiment
-6. Analyze the data
-7. Summarize the data
+6. Analyze the data - what data tells about performance measures.
+7. Summarize the data - Informs ongoing process
 
 ## Qualitative Evaluation
 
-There are some questions we want to ask in this evaluation:
+There are some questions we want to ask in this evaluation: (Similar to interviews)
 
 1. What did you like/dislike?
 2. What were you thinking while using this interface?
@@ -75,27 +75,33 @@ There are some questions we want to ask in this evaluation:
 
 There are options when designing a qualitative evaluation:
 
-1. Prior experience or live demonstration?
-2. Synchronous or asynchronous?
-3. One interface or multiple prototypes?
-4. Think aloud protocol or post-event protocol?
-5. Individuals or groups?
+1. Prior experience or live demonstration? - bring user in to test
+2. Synchronous or asynchronous? - watch live or complete and send
+3. One interface or multiple prototypes? - Vary the order based on bias.
+4. Think aloud protocol or post-event protocol? - explain while doing or do later at the end.
+5. Individuals or groups? - Focus groups (build and expand)/ Only source of knowledge but no bias.
 
 ## Capturing Qualitative Evaluation
 
 Options to capture qualitative evaluation:
 
-1. Video recording
-2. Note-taking
+1. Video recording 
+	- Pros; Automated Comprehensive and passive/ 
+	- Cons: intrusive, nonaalyzalble and screenless. Overwhelming.
+2. Note-taking 
+	- Pros: Cheap, Non intrusive and Analyzable/ 
+	- Cons: Slow, Manual and Limited
 3. Software logging
+	- Pros: Automated passive and analyzable
+	- Cons: Limited, Narrow and Tech Senistive
 
 ## 5 Tips: Qualitative Evaluation
 
-1. Run pilot studies
-2. Focus on feedback
-3. Use questions
-4. Instruct users what to do, not how
-5. Capture satisfaction
+1. Run pilot studies - Recruiting is hard, gather usefull data . Use friends and coworkers
+2. Focus on feedback - Dont explain rationale, dont teach. Take it and design.
+3. Use questions - when user get stuck? Guide user
+4. Instruct users what to do, not how - Reduce bias
+5. Capture satisfaction - Do they like it?
 
 ## Empirical Evaluation
 
@@ -160,17 +166,4 @@ The most common type of predictive evaluation is actually cognitive walkthrough:
 
 Our goal is to constantly apply multiple evaluation techniques to center our designs on the user.
 
-## Section Quizzes
-
-### Exercise: Evaluation Pros And Cons
-
-Match the advantage to the method.
-
-|                                                | Qualitative | Empirical | Predictive |
-| ---------------------------------------------- | ----------- | --------- | ---------- |
-| Does not required any actual users             |             |           | x          |
-| Identifies provable advantages                 |             | x         |            |
-| Informs ongoing design decisions               | x           |           | x          |
-| Investigates the participant's thought process | x           |           | x          |
-| Provides generalizable conclusions             |             | x         |            |
-| Draws conclusions from actual participants     | x           | x         |            |
+## Important Videos
