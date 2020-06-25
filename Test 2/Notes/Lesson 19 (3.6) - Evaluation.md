@@ -172,23 +172,31 @@ Below is a summary of empirical tests:
 
 ## Predictive Evaluation
 
-Predictive evaluation should only be used where we wouldn't otherwise be doing any evaluation.
+Predictive evaluation should only be used where we wouldn't otherwise be doing any evaluation. Rapid feedback, appropriately and when users are not available.
 
 ## Types Of Predictive Evaluation
 
-- **Heuristic evaluation** - each individual evaluator inspects the interface alone, and identifies places where the interface violates some heuristic
-- **Model-based evaluation** - tracing through models in the context of the interface we designed (e.g., GOMS model)
-- **Simulation-based evaluation** - where we might construct an AI agent that interacts with our interface in the way a human would
+- **Heuristic evaluation** - each individual evaluator inspects the interface alone, and identifies places where the interface violates some heuristic. Sit with an expert and get the report. 
+- **Model-based evaluation** - tracing through models in the context of the interface we designed (e.g., GOMS model). We can also compare interfaces. Also profiles of users could be used.
+- **Simulation-based evaluation** - where we might construct an AI agent that interacts with our interface in the way a human would.  The human project - IIIT Germany.
 
 ## Cognitive Walkthrough
 
 The most common type of predictive evaluation is actually cognitive walkthrough:
 
-- **Cognitive walkthrough** - stepping through the process of interacting with an interface, mentally simulating in each stage what the user is seeing and thinking and doing
+- **Cognitive walkthrough** - stepping through the process of interacting with an interface, mentally simulating in each stage what the user is seeing and thinking and doing. To do this, we start with task and goal.
+	- predict what action will user take
+	- Noting system response
+	- Investigate gulf for each step
+	- it may be fine for us, but we can put to user shoes we can identify something missing.
 
 ## Evaluating Prototypes
 
 Our goal is to constantly apply multiple evaluation techniques to center our designs on the user.
+ - Qualtitative evaluation.
+ - Some quantitative evaluation.
+ - For all the prototypes.
+
 
 ## Important Videos
 5,7,8,10,12,13,14,15
