@@ -4,7 +4,6 @@ In this lesson, we will cover interfaces and politics:
 -Langdon winner - techincal devices have politics? Create change in world.
 
 - **Politics** - Whether artifacts can personify specific forms of authority or power, whether good or bad
-
 Two dimensions of politics:
 
 1. Designing for change
