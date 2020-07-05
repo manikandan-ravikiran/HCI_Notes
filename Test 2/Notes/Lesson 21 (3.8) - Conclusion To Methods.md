@@ -16,4 +16,7 @@ There are different approaches to user-centered design:
 
 1. **Participatory design** - all the stakeholders including the users themselves, are involved as part of the design team but we must be careful not to over represent the few users that are participating in the design with the rest of the users out there
 2. **Action research** - addresses an immediate problem and researches it by trying to simultaneously solve it
-3. **Design-based research** - similar to action research but it can be done by outside practitioners as well
+3. **Design-based research** - similar to action research but it can be done by outside practitioners as well. Common in learnining science research
+
+## Important Videos
+- 2,3,4,6,8
