@@ -66,6 +66,8 @@ Agile development techniques don't replace the design life cycle, they just chan
 4. Be careful with consistency - Dont mess with user expectation
 5. Nest your design cycles - Small cyles rapidly in Agile
 
+## Important Video
+2,4,7,9
 <!-- ## Section Quizzes
 
 ### Exercise: When To Go Agile
