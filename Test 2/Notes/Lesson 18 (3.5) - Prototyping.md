@@ -7,11 +7,15 @@ This lesson will cover the following topics:
 3. High-fidelity prototypes - wire frames or working versions of our interface
 
 ## Basics Of Prototyping
-
+                                                           
 Some basics to prototyping:
 
 1. Early prototyping - rapid revision on preliminary ideas
-2. Late prototyping - finishing touches on final design
+2. Late prototyping - finishing touches on final design/revising already live design
+
+### Representation (Types)
+
+- What is the prototype?
 
 Different prototype representations from early (low-fidelity) to late (high fidelity):
 
@@ -20,19 +24,28 @@ Different prototype representations from early (low-fidelity) to late (high fide
 3. Wizard of Oz
 4. Wireframe
 5. Physical
-6. Functional
+6. Functional - Working idea.
 7. Live
+
+### Fidelity
+
+Fildelity - Completeness/Maturity of prototype. Far from being complete. Correlated to representation.
+
+### Evaluation
 
 Prototype evaluation from early to late:
 
-1. Function
-2. Interface
-3. Performance
+1. Function - Low fidelity - what button to press ? Can it do what it is meant to do?
+2. Interface -  Readability
+3. Performance - Higher fidelity - working output
 
+### Scope
 Prototype scope from early to late:
 
 1. Horizontal prototype - covers the design as a whole but in a more shallow way
+	- Entire FB website
 2. Vertical prototype - great detail on a small portion of the interaction
+	- Status posting screen
 
 Summary of concepts:
 
@@ -52,15 +65,15 @@ We must note tradeoffs in prototyping:
    - Pros: can be used for detailed feedback and evaluation
    - Cons: difficult to actually put together
 
-Remember that we are designing to get more feedback.
+Remember that we are designing to get more feedback. Start easy get ideas and move to higher fidelity. Not complete interfaces.
 
 ## 5 Tips: Prototyping
 
-1. Keep prototypes easy to change
-2. Make it clear that it's a prototype
-3. Be creative
-4. Evaluate risks
-5. Prototype for feedback
+1. Keep prototypes easy to change - Enable rapid revision (paper vs code)
+2. Make it clear that it's a prototype - Dont make too good, make it look like prototypoe
+3. Be creative - Do whatever it takes to get feedback. Find ones that get feedback.
+4. Evaluate risks - Minimize time spent on bad design. Dont waste time.
+5. Prototype for feedback - Goal of prototype is feedback.
 
 ## Types Of Prototypes
 
@@ -82,8 +95,9 @@ We do not just move to the evaluation stage after we are done with prototyping, 
 ## Multi-Level Prototyping
 
 All prototypes do not have to be at the same level at the same time. Instead, prototyping can and should exist at multiple levels of fidelity.
+	- Dont do everything, part could be done from low to high fidelity.
 
-## Section Quizzes
+<!-- ## Section Quizzes
 
 ### Exercise: Prototyping Pros And Cons
 
@@ -97,3 +111,4 @@ Match the advantage to the method.
 | Easily distributable to remote users |                   |                  |                 |              | x            |                     |
 | supports prototyping look and feel   |                   |                  |                 |              | x            | x                   |
 | Allows mobility during evaluation    |                   |                  |                 | x            |              | x                   |
+ -->
