@@ -9,15 +9,15 @@ This lesson will cover the following topics:
 
 ## Three Types Of Evaluation
 
-- **Qualitative evaluation** - evaluation that emphasizes the totality of a phenomenon
-- **Empirical evaluation** - evaluation based on numeric summaries or observations of a phenomenon
+- **Qualitative evaluation** - evaluation that emphasizes the totality of a phenomenon. like dislike need doesnt need etc.
+- **Empirical evaluation** - evaluation based on numeric summaries or observations of a phenomenon. More participants and qualitative is done.
 - **Predictive evaluation** - evaluation based on systematic application of pre-established principles and heuristics
 
 ## Evaluation Terminology
 
 - **Reliability** - whether a measure consistently returns the same results for the same phenomenon
-- **Validity** - whether a measure's results actually reflect the underlying phenomenon
-- **Generalizability** - whether a measure's results can be used to predict phenomena beyond what it measured
+- **Validity** - whether a measure's results actually reflect the underlying phenomenon (reality and results)
+- **Generalizability** - whether a measure's results can be used to predict phenomena beyond what it measured. Broader Audience (may or may not be applicable to all).
 - **Precision** - the level of detail a measure supplies
 
 ## 5 Tips: What To Evaluate
@@ -26,7 +26,12 @@ This lesson will cover the following topics:
 2. Accuracy - how many users does users commit while executing a task (Expert)
 3. Learnability - How long does user take to reach expertise
 4. Memorability - users abiility to use interface over time
-5. Satisfaction - Cognitive load, how many actually download the app?
+5. Satisfaction - Cognitive load, how many actually download the app? - Social desirability bias
+
+Important things needed to address the research.
+- What data are you gathering?
+- What are you evaluating ?
+- What approach will you use?
 
 ## Evaluation Timeline
 
@@ -56,11 +61,11 @@ Regarding setting: where does it take place.
 ## Evaluation Design
 
 1. Define the task - very large or very small task.
-2. Define performance measures - how are we going to measure this. Define it and avoid confirmation bias. Create metrics
+2. Define performance measures - how are we going to measure this. Define it and avoid confirmation bias. Create metrics. Qualitative vs Quantitative.
 3. Develop the experiment - How we find user performance on the measures. Survey or Interview/ What to control or vary empirically.
 4. Recruit participants - Ethics - right awareness
 5. Do the experiment
-6. Analyze the data - what data tells about performance measures.
+6. Analyze the data - what data tells about performance measures. Do followups if you find something extra than expected.
 7. Summarize the data - Informs ongoing process
 
 ## Qualitative Evaluation
@@ -74,14 +79,14 @@ There are some questions we want to ask in this evaluation: (Similar to intervie
 
 Methods - Interview/Survey/ Think out load protocol/Focus Groups
 
-Use these techniques to fget feedback on how our prototype changes the task.
+Use these techniques to get feedback on how our prototype changes the task.
 
 
 ## Designing A Qualitative Evaluation
 
 There are options when designing a qualitative evaluation:
 
-1. Prior experience or live demonstration? - bring user in to test
+1. Prior experience or live demonstration? - bring user in to test. Mostly later case
 2. Synchronous or asynchronous? - watch live or complete and send
 3. One interface or multiple prototypes? - Vary the order based on bias.
 4. Think aloud protocol or post-event protocol? - explain while doing or do later at the end.
@@ -148,7 +153,7 @@ Recall that there are a number of tests for quantitative data:
    - Alternatively - MWW test, Kruskal-Wallis test
 
 ## Special Test
-- Three hypothesis - Do pairwise - Repeated testing - False positive
+- Three hypothesis - Do pairwise - Repeated testing - False positive - Falsely reject null and agree alternative hypothesis.
 - Fishers exact and G-test
 	- Where is the difference?
 - ANOVA and Kruskal Wallis (Interval and Ratio)
@@ -160,7 +165,7 @@ Binomial Data - Two sample binomial test
 
 Below is a summary of empirical tests:
 
-![Summary of Empirical Tests](lesson-19-summary-of-empirical-tests.JPG)
+![Summary of Empirical Tests](lesson-19-summary-of-empirical-tests.PNG)
 
 ## 5 Tips: Empirical Evaluation
 
@@ -199,4 +204,4 @@ Our goal is to constantly apply multiple evaluation techniques to center our des
 
 
 ## Important Videos
-5,7,8,10,12,13,14,15
+5,7,8,10,12,13,14,15,19
