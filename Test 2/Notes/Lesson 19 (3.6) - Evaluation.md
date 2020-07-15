@@ -9,8 +9,8 @@ This lesson will cover the following topics:
 
 ## Three Types Of Evaluation
 
-- **Qualitative evaluation** - evaluation that emphasizes the totality of a phenomenon. like dislike need doesnt need etc.
-- **Empirical evaluation** - evaluation based on numeric summaries or observations of a phenomenon. More participants and qualitative is done.
+- **Qualitative evaluation** - evaluation that emphasizes the totality of a phenomenon. Likes dislike need doesnt need, easy vs hard etc.
+- **Empirical evaluation** - evaluation based on numeric summaries or observations of a phenomenon. More participants and qualitative is done in prior.
 - **Predictive evaluation** - evaluation based on systematic application of pre-established principles and heuristics
 
 ## Evaluation Terminology
@@ -24,14 +24,14 @@ This lesson will cover the following topics:
 
 1. Efficiency - how long does user take to achieve text (Expert)
 2. Accuracy - how many users does users commit while executing a task (Expert)
-3. Learnability - How long does user take to reach expertise
-4. Memorability - users abiility to use interface over time
-5. Satisfaction - Cognitive load, how many actually download the app? - Social desirability bias
+3. Learnability - How long does user take to reach expertise.
+4. Memorability - users abiility to remember on how to use interface over time.
+5. Satisfaction - Cognitive load, how many actually download the app? - Social desirability bias.
 
 Important things needed to address the research.
 - What data are you gathering?
 - What are you evaluating ?
-- What approach will you use?
+- What approach will you use to evaluate?
 
 ## Evaluation Timeline
 
@@ -50,8 +50,8 @@ Regarding approach: Ways to fullfill purpose
 
 Regarding data:
 
-1. Qualitative - always useful to improve our interfaces
-2. Quantitative - while always useful, can only arise when we have rigorous evaluations
+1. Qualitative - always useful to improve our interfaces.
+2. Quantitative - while always useful, can only arise when we have rigorous evaluations.
 
 Regarding setting: where does it take place.
 
@@ -62,7 +62,7 @@ Regarding setting: where does it take place.
 
 1. Define the task - very large or very small task.
 2. Define performance measures - how are we going to measure this. Define it and avoid confirmation bias. Create metrics. Qualitative vs Quantitative.
-3. Develop the experiment - How we find user performance on the measures. Survey or Interview/ What to control or vary empirically.
+3. Develop the experiment - How we find user performance on the measures. Survey or Interview/ What to control or vary empirically. Generalizability.
 4. Recruit participants - Ethics - right awareness
 5. Do the experiment
 6. Analyze the data - what data tells about performance measures. Do followups if you find something extra than expected.
@@ -97,18 +97,18 @@ There are options when designing a qualitative evaluation:
 Options to capture qualitative evaluation:
 
 1. Video recording 
-	- Pros; Automated Comprehensive and passive/ 
-	- Cons: intrusive, nonaalyzalble and screenless. Overwhelming.
+	- Pros; Automated Comprehensive and passive (Focus on admninstering) 
+	- Cons: intrusive, nonaalyzalble and screenless. Overwhelming on analyses.
 2. Note-taking 
-	- Pros: Cheap, Non intrusive and Analyzable/ 
+	- Pros: Cheap, Non intrusive (Capture what we do/not everything) and Analyzable
 	- Cons: Slow, Manual and Limited
 3. Software logging
 	- Pros: Automated passive and analyzable
-	- Cons: Limited, Narrow and Tech Senistive
+	- Cons: Limited (only some parts could be captured), Narrow and Tech Senistive
 
 ## 5 Tips: Qualitative Evaluation
 
-1. Run pilot studies - Recruiting is hard, gather usefull data . Use friends and coworkers
+1. Run pilot studies - Recruiting is hard, gather useful data . Use friends and coworkers
 2. Focus on feedback - Dont explain rationale, dont teach. Take it and design.
 3. Use questions - when user get stuck? Guide user
 4. Instruct users what to do, not how - Reduce bias
@@ -118,7 +118,7 @@ Options to capture qualitative evaluation:
 
 - Something numerical is evaluation? What layout of button is useful?
 - Comparing design and showing imprvement in industry.
-- Build new theories (gesture has tuf curve than touch)
+- Build new theories (gesture has tuf curve than voice)
 - How can we show there is a difference between these designs?
 - The goal of empirical evaluation is to come up with strong conclusions. Most empirical evaluations are comparisons. 
 - In qualitive eval we get ppl  one after another.
@@ -153,7 +153,7 @@ Recall that there are a number of tests for quantitative data:
    - Alternatively - MWW test, Kruskal-Wallis test
 
 ## Special Test
-- Three hypothesis - Do pairwise - Repeated testing - False positive - Falsely reject null and agree alternative hypothesis.
+- Three independent varible (hypothesis) - Do pairwise - Repeated testing - False positive - Falsely reject null and agree alternative hypothesis.
 - Fishers exact and G-test
 	- Where is the difference?
 - ANOVA and Kruskal Wallis (Interval and Ratio)
@@ -182,8 +182,8 @@ Predictive evaluation should only be used where we wouldn't otherwise be doing a
 ## Types Of Predictive Evaluation
 
 - **Heuristic evaluation** - each individual evaluator inspects the interface alone, and identifies places where the interface violates some heuristic. Sit with an expert and get the report. 
-- **Model-based evaluation** - tracing through models in the context of the interface we designed (e.g., GOMS model). We can also compare interfaces. Also profiles of users could be used.
-- **Simulation-based evaluation** - where we might construct an AI agent that interacts with our interface in the way a human would.  The human project - IIIT Germany.
+	- **Model-based evaluation** - tracing through models in the context of the interface we designed (e.g., GOMS model). We can also compare interfaces. Also profiles of users could be used.
+	- **Simulation-based evaluation** - where we might construct an AI agent that interacts with our interface in the way a human would.  The human project - IIIT Germany.
 
 ## Cognitive Walkthrough
 
@@ -204,4 +204,4 @@ Our goal is to constantly apply multiple evaluation techniques to center our des
 
 
 ## Important Videos
-5,7,8,10,12,13,14,15,19
+3,5,7,8,10,12,13,14,15,19
