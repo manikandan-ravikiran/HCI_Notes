@@ -35,9 +35,9 @@ Fildelity - Completeness/Maturity of prototype. Far from being complete. Correla
 
 Prototype evaluation from early to late:
 
-1. Function - Low fidelity - what button to press ? Can it do what it is meant to do?
+1. Function - Low fidelity - what button to press ? Can it do what it is meant to do? Can user figure out what to do by looking at it?
 2. Interface -  Readability
-3. Performance - Higher fidelity - working output
+3. Performance - Higher fidelity - working/closing to working output
 
 ### Scope
 Prototype scope from early to late:
@@ -49,7 +49,7 @@ Prototype scope from early to late:
 
 Summary of concepts:
 
-1. Representation
+1. Representation - what is the prototype?
 2. Fidelity
 3. Evaluation
 4. Scope
@@ -72,8 +72,8 @@ Remember that we are designing to get more feedback. Start easy get ideas and mo
 1. Keep prototypes easy to change - Enable rapid revision (paper vs code)
 2. Make it clear that it's a prototype - Dont make too good, make it look like prototypoe
 3. Be creative - Do whatever it takes to get feedback. Find ones that get feedback.
-4. Evaluate risks - Minimize time spent on bad design. Dont waste time.
-5. Prototype for feedback - Goal of prototype is feedback.
+4. Evaluate risks - Minimize time spent on bad design by getting feedback early. Dont waste time.
+5. Prototype for feedback - Goal of prototype is feedback. Prototype for kind of feedback.
 
 ## Types Of Prototypes
 
@@ -85,18 +85,26 @@ Below are different types of prototypes:
 - **Paper** - drawing our our design
   - We can utilize _card-based prototyping_ where each screen is on a different card and can be used to simulate the interaction
 - **Wizard Of Oz** - a prototype where the user can now interact authentically with the system while a human supplies functionality that has not be implemented yet
-- **Wire framing** - using more detailed tools to mark up what an interface might look like
+  - Voice and Gesture interface
+- **Wire framing** - using more detailed tools to mark up what an interface might look like.
+  - Formalize designs
+  - Challenges of screen real estate.
 - **Physical** - a 3D prototype on the interface but does not have to be the actual working version
+  - Physical or 3d.
+  - Bluetooth device that sycs with phones to execute the actions.
 
 ## Design Life Cycle Revisited
 
 We do not just move to the evaluation stage after we are done with prototyping, rather a single prototype corresponds to a single iteration through the cycle.
+- Success of prototype-> Raise the fidelity
 
 ## Multi-Level Prototyping
 
 All prototypes do not have to be at the same level at the same time. Instead, prototyping can and should exist at multiple levels of fidelity.
 	- Dont do everything, part could be done from low to high fidelity.
 
+### Important Videos
+2,3,4,7,8,11,12
 <!-- ## Section Quizzes
 
 ### Exercise: Prototyping Pros And Cons
