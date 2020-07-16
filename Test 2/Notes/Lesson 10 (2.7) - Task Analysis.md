@@ -3,7 +3,7 @@
 In this lesson, we will look into two methods for task analysis:
 
 1. Human information processor models - Especially GOMS Model, Input to user and output from user (Processor model)
-2. Cognitive task analysis - A way to get inside users hedad (predictor model)
+2. Cognitive task analysis - A way to get inside users head (predictor model)
 
 ## GOMS Model
 
@@ -27,13 +27,13 @@ Weaknesses of GOMS model:
 
 Strengths of GOMS model:
 
-1. Formalize user interaction - Interaction steps to measure for efficiency. Helps to narrow down the time for each steps. Finding areas of improvement. Count time for each operator, easy to get keychain while holding something in hand.
+1. Formalize user interaction into steps - Interaction steps to measure for efficiency. Helps to narrow down the time for each steps. Finding areas of improvement. Count time for each operator, easy to get keychain while holding something in hand.
 
 
 ### Types of GOMS
 KLM - GOMS -> Keystroke level model
 	- here operator + execution time - efficiency determination
-	- 6 types of operators, wont work on modern ideas
+	- original work had 6 types of operators, wont work on modern ideas
 Card, Moran and Newell GOMS *CMN GOMS*
 	- Hierarchical Goals and choose multiple goals
 	- Very low level goals (moving text,delete phrases)
@@ -76,7 +76,7 @@ Its collection of methods focus on what we cant see.
 Cognitive task analysis are concerned with the underlying thought process associated with performing a task. Most methods follow a particular common sequence:
 
 1. Collecting preliminary knowledge
-	- No experts needed, but need some familiarity
+	- No experts needed, but need some familiarity (observe ppl performing tasks)
 2. Identify knowledge representations
 	- What does user know what they need to complete a task. Ex: Ordering of tasks/ Memorization etc.
 	- For navigation, monitoring and sequence of actions.
@@ -136,3 +136,6 @@ Weaknesses:
 - CFM - Cognitive function model - Focus on complexity
 - Appplied CTA
 - Skilled CTA
+
+## Important Videos
+2,5,7,8,10,11,13

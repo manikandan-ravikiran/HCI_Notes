@@ -97,3 +97,7 @@ One such app could be a social media app where users in the same city share pict
 _Think of an instance where some technology you use was designed with political motivation in mind._
 
 When using Piazza, there is clearly a push to use their job search tool since they always push it on the landing page.
+
+
+## Important Videos
+2,4,5,7,8,11,12,14

@@ -60,11 +60,19 @@ Memory is context dependent. People will often remember e.g., a list of personal
 
 A massive and well-developed set of theories regarding interaction between various pieces of an activity. This theory predates HCI and there are some contributions of activity theory to HCI we should be aware of:
 
+Task to Activity theory
+	- Why we see task and then design
+	- Up and down hierarchy - due to learning.
+	- 
+
 - It predates HCI
 
 1. Activity theory generalizes our unit of analysis from the task to the activity; we're not just interested in what users doing but why users are doing it
 2. Activity theory puts an emphasis on the idea that we can create low level operations from higher level actions
 3. Activity theory points out that actions by the user can actually move up and down a hierarchy
+
+## Important Videos
+2,4,5,6,10,12,13,15
 
 <!-- ## Section Quizzes
 
