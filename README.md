@@ -17,6 +17,9 @@ The notes wouldn't be possible without foundational work of my Edtech classmate 
 The pdf is not released due to copyright. Please raise an git issue for the same. 
 
 
+### Assignments
+The assignments are released in seperate [repository](https://github.com/manikandan-ravikiran/HCI-Assignments-Summer-2020)
+
 ### Citation
 ```
 @misc{ManiHCINotes,
