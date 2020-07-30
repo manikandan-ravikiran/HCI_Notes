@@ -9,6 +9,7 @@ Notes for Human Computer Interaction course - CS6750
 
 ### Warning
 - Use this notes at your own risk, while the notes are according to video. All the suggestions made for videos and left out contents are as per my personal convinience.
+- This notes are according to Summer 2020 schedule, however usable for fall and spring respectively with reshuffling. Feel free to send a pull request.
 
 ### Credits
 The notes wouldn't be possible without foundational work of my Edtech classmate [Steven Chung](https://github.com/stevenxchung/OMSCS-Notes).
